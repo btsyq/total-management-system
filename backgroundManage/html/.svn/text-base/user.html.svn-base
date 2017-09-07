@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>用户管理</title>
+	<link rel="stylesheet" type="text/css" href="../css/style.css" />
+	<link rel="stylesheet" type="text/css" href="../css/user.css" />
+</head>
+
+<body>
+	<div class="header">
+		<a href="#">
+			<div class="logo">
+			</div>
+		</a>
+		<div class="righticons">
+			<a href="#">
+				<div class="exit">
+
+				</div>
+			</a>
+			<a href="#">
+				<div class="admin">
+
+				</div>
+			</a>
+			<div class="menu">
+
+			</div>
+		</div>
+		<div class="menulist">
+			<ul>
+				<li>
+					<a href="#">OA</a>
+				</li>
+				<li>
+					<a href="#">CRM</a>
+				</li>
+				<li>
+					<a href="#">TEAMWORK</a>
+				</li>
+				<li>
+					<a href="#">BUGFREE</a>
+				</li>
+				<li>
+					<a href="#">E-LEARNING</a>
+				</li>
+			</ul>
+
+		</div>
+	</div>
+	<div class="content">
+		<div class="mainwrap">
+			<div class="conleft">
+				<div class="cltit">
+					<p>
+						系统管理
+					</p>
+				</div>
+				<div class="clmenu">
+
+					<div class="menus">
+						<ul>
+							<li class="active">
+								<a href=""><span>用户管理</span></a>
+							</li>
+							<li>
+								<a href=""><span>权限管理</span></a>
+							</li>
+							<li>
+								<a href=""><span>模块管理</span></a>
+							</li>
+
+						</ul>
+
+					</div>
+
+				</div>
+
+			</div>
+			<div class="conright">
+				<div class="crtit">
+					<div class="crtit_btns">
+						<div class="btnwrap">
+							<div class="btnname fl">
+								<label>用户姓名：</label>
+								<input type="text" value="" placeholder="请输入文字..." />
+							</div>
+							<div class="btnname fl">
+								<label class="fl">用户角色：</label>
+								<select class="move">
+									<option>用户角色1</option>
+									<option>用户角色1</option>
+									<option>用户角色1</option>
+									<option>用户角色1</option>
+								</select>
+								<div class="fl bmor iconfont">
+									&#xe600;
+								</div>
+							</div>
+							<div class="search-news fr">
+								<button>搜索</button>
+								<button>重置</button>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="crsync">
+					<button>一键同步</button>
+				</div>
+				<div class="crmain">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0" class="table-fixed">
+						<thead>
+							<th width="10%">序号</th>
+							<th width="22.5%">姓名<i class="icon iconfont sort">&#xe613;</i></th>
+							<th width="22.5%">用户账号</th>
+							<th width="22.5%">创建时间</th>
+							<th width="22.5%">用户角色</th>
+						</thead>
+					</table>
+					<table width="100%" border="0" cellspacing="0" cellpadding="0" class="table-fixed table-roll">
+						<tbody>
+							<tr>
+								<td>1</td>
+								<td>李建明</td>
+								<td>LIJIANMIN</td>
+								<td>2017-04-12</td>
+								<td class="amend">修改</td>
+							</tr>
+							<tr>
+								<td>2</td>
+								<td>李建明</td>
+								<td>LIJIANMIN</td>
+								<td>2017-04-12</td>
+								<td>修改</td>
+							</tr>
+							<tr>
+								<td>3</td>
+								<td>李建明</td>
+								<td>LIJIANMIN</td>
+								<td>2017-04-12</td>
+								<td>修改</td>
+							</tr>
+							<tr>
+								<td>4</td>
+								<td>李建明</td>
+								<td>LIJIANMIN</td>
+								<td>2017-04-12</td>
+								<td>修改</td>
+							</tr>
+							<tr>
+								<td>5</td>
+								<td>李建明</td>
+								<td>LIJIANMIN</td>
+								<td>2017-04-12</td>
+								<td>修改</td>
+							</tr>
+							<tr>
+								<td>6</td>
+								<td>李建明</td>
+								<td>LIJIANMIN</td>
+								<td>2017-04-12</td>
+								<td>修改</td>
+							</tr>
+							<tr>
+								<td>7</td>
+								<td>李建明</td>
+								<td>LIJIANMIN</td>
+								<td>2017-04-12</td>
+								<td>修改</td>
+							</tr>
+							<tr>
+								<td>8</td>
+								<td>李建明</td>
+								<td>LIJIANMIN</td>
+								<td>2017-04-12</td>
+								<td>修改</td>
+							</tr>
+							<tr>
+								<td>9</td>
+								<td>李建明</td>
+								<td>LIJIANMIN</td>
+								<td>2017-04-12</td>
+								<td>修改</td>
+							</tr>
+							<tr>
+								<td>10</td>
+								<td>李建明</td>
+								<td>LIJIANMIN</td>
+								<td>2017-04-12</td>
+								<td>修改</td>
+							</tr>
+							<tr>
+								<td>11</td>
+								<td>李建明</td>
+								<td>LIJIANMIN</td>
+								<td>2017-04-12</td>
+								<td>修改</td>
+							</tr>
+							<tr>
+								<td>12</td>
+								<td>李建明</td>
+								<td>LIJIANMIN</td>
+								<td>2017-04-12</td>
+								<td>修改</td>
+							</tr>
+							<tr>
+								<td>13</td>
+								<td>李建明</td>
+								<td>LIJIANMIN</td>
+								<td>2017-04-12</td>
+								<td>修改</td>
+							</tr>
+							<tr>
+								<td>14</td>
+								<td>李建明</td>
+								<td>LIJIANMIN</td>
+								<td>2017-04-12</td>
+								<td>修改</td>
+							</tr>
+						</tbody>
+					</table>
+					<div class="page">
+
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="layer"></div>
+	<div class="addconfirm popup pop-up addrole">
+		<div class="ptit">
+			角色修改：
+		</div>
+		<div class="pwarn juese">
+			<div class="inputwrap">
+				<div class="">
+					<div class="iwleft">
+						<p>用户姓名：</p>
+					</div>
+					<div class="iwright">
+						<p>
+							<input type="text" id="" value="" />
+						</p>
+					</div>
+				</div>
+				<div class="addpart cl">
+					<div class="iwleft">
+						<input type="check" />
+					</div>
+					<div class="iwright">
+						<span ="">角色1</span>
+					</div>
+				</div>
+				<div class="addpart cl">
+					<div class="iwleft">
+						<input type="check" />
+					</div>
+					<div class="iwright">
+						<span ="">角色1</span>
+					</div>
+				</div>
+				<div class="addpart cl">
+					<div class="iwleft">
+						<input type="check" />
+					</div>
+					<div class="iwright">
+						<span ="">角色1</span>
+					</div>
+				</div>
+				<div class="addpart cl">
+					<div class="iwleft">
+						<input type="check" />
+					</div>
+					<div class="iwright">
+						<span ="">角色1</span>
+					</div>
+				</div>
+			</div>
+
+		</div>
+		<button class="confirmbtn">保存</button>
+		<button class="cancelbtn">取消</button>
+	</div>
+	<script src="../js/jquery-3.2.1.min.js" type="text/javascript" charset="utf-8"></script>
+	<script src="../js/jquery.page.js" type="text/javascript" charset="utf-8"></script>
+	<script src="../js/jquery.nicescroll.min.js" type="text/javascript" charset="utf-8"></script>
+	<script src="../js/user.js" type="text/javascript" charset="utf-8"></script>
+</body>
+
+</html>

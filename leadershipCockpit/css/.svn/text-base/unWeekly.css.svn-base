@@ -1,0 +1,72 @@
+.pop-box{
+    margin: 0;
+    padding: 0;
+}
+.pop-box{
+    width:510px;
+    height:400px;
+    padding:0 40px;
+    margin: 0 auto;
+    background: url(../img/weekly1.png);
+    background-size:100% 100%;
+    position: relative;
+}
+.pop-content .pop-title{
+    height:32.5px;
+    padding: 12.5px 0 0 0;
+    font-size: 14px;
+}
+.user-info{
+    line-height: 32.5px;
+    color: #00fcff;
+}
+.pop-content .un-weekly{
+    font-size:14px;
+    padding: 15px 0 10px 0;
+}
+.pop-content .pop-close{
+    width:13px;
+    height:13px;
+    background: url(../img/close.png);
+    background-size:100% 100%;
+    position: absolute;
+    top:20px;
+    right:20px;
+    cursor: pointer;
+}
+.pop-content .user-top{
+    height:35px;
+    font-size:12px;
+    margin:22px 0 0px 0;
+}
+.pop-content .personnel{
+    color:#ffba00;
+}
+.pop-content .table_form{
+    width:100%;
+    height:253px;
+    display: block;
+     border: 1px solid #276eab;
+}
+.pop-content .table-fixed{
+     border: none;
+}
+.pop-content .table-fixed th{
+    color:#aeecff;
+    text-align: center;
+    height:38px;
+    border-bottom: 1px solid #276eab;
+    border-right: 1px solid #276eab;
+}
+.pop-content .table-fixed th:nth-child(4){
+    border-right:none;
+}
+.pop-content .table-fixed td{
+    text-align: center;
+    padding-left:0px;
+    border-right: 1px solid #276eab;
+    border-bottom: 1px solid #276eab;
+}
+.pop-content .table-fixed td:nth-child(4){
+    border-right: none;
+}

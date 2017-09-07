@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>商情</title>
+	<link rel="stylesheet" type="text/css" href="../css/businessConditions.css" />
+</head>
+
+<body>
+	<div class="page-body">
+		<div class="content">
+			<div class="menu"></div>
+			<div class="handle">
+				<div class="dataTime fl">
+					<div class="select-time fl">
+						<span>时间</span>
+						<input type="text" placeholder="2017-01-12" onclick="laydate()" />
+						<img src="../img/time.png" />
+					</div>
+					<div class="select-time fl">
+						<span class="zhi">至</span>
+						<input type="text" placeholder="2017-01-12" id="demo" />
+						<img src="../img/time.png" />
+					</div>
+					<input class="search-main" type="text" placeholder="输入文字..." />
+					<button>搜索</button>
+					<button class="reset">重置</button>
+					<button class="release">发布商情</button>
+				</div>
+			</div>
+			<div class="content-details">
+				<div class="page-content">
+					<div class="page-title"><a href="#">以大数据智慧驱动 破解交通行业痛点难点</a></div>
+					<div class="page-main">作为大数据试验区和大数据典型行业的有力对接,大赛得到了交通运输部大力支持,实现与陕西、湖北、四川、湖南、云南等省交通运输厅的联合主办,以及滴滴出行、百度、高德、 货车帮等知名企业的鼎力协助。 共同推进交通运输供给侧改革,促进行业提质增效和转型升级、绿色智慧的现代综合交通运输体系,借助…
+					</div>
+					<div class="page-news">
+						<div class="fl">布鲁斯·班纳</div>
+						<div class="news-main fr">
+							<span>浏览次数20次</span>
+							<span>2017-05-09 14：20</span>
+							<span><img src='../img/assist.png'/></span>
+							<span class="comment"><img class='pic' src='../img/comment.png'/></span>
+						</div>
+					</div>
+					<div class="line"></div>
+				</div>
+				<div class="page-news comment-main">
+					<div class="news-mains fl">
+						<div class="news-per fl">
+							<span><img src='../img/dianzan.png'/>&nbsp; 托尼·斯塔克</span>
+						</div>
+						<div class="news-per fl">
+							<span><img src='../img/dianzan.png'/>&nbsp; 尼克·弗瑞</span>
+						</div>
+					</div>
+					<div class="like-person fl">
+						<span>|</span>
+						<span>共2人觉得很赞</span>
+					</div>
+				</div>
+				<div class="review-details">
+					<div class="review-main">
+						<div class="main-top cl">
+							<div class="fl">娜塔莎·罗曼诺夫：</div>
+							<div class="fr">05-10 14:20</div>
+						</div>
+						<div class="page-main main-details cl">作为大数据试验区和大数据典型行业的有力对接为大数据试验区和大数据典型行业的有力对接z,大赛得到了交通运输部大力支持,实现与陕西、湖北、四川、湖南、云南等省交通运输厅的联合主办,以及滴滴出行、百度、高德、 货车帮等知名企业的鼎力协助。
+							共同推进交通运输供给侧改革,促进行业提质增效和转型升级、绿色智慧的现代综合交通运输体系,借助…
+						</div>
+					</div>
+					<div class="review-main">
+						<div class="main-top cl">
+							<div class="fl">布鲁斯·班纳：</div>
+							<div class="fr">05-10 14:20</div>
+						</div>
+						<div class="page-main main-details cl"><span>回复</span><span class="huifu">娜塔莎·罗曼诺夫：</span> 说的很对啊！
+						</div>
+					</div>
+					<div class="review-main">
+						<div class="main-top cl">
+							<div class="fl">布鲁斯·班纳：</div>
+							<div class="fr">05-10 14:20</div>
+						</div>
+						<div class="page-main main-details cl"><span>回复</span><span class="huifu">娜塔莎·罗曼诺夫：</span> 说的很对啊！
+						</div>
+					</div>
+					<div class="review-main more-review">
+						更多评论<img src="../img/more.png" />
+					</div>
+					<div class="review-main review-submit">
+						<textarea class="import-content" rows="8" cols="149" placeholder="评论 | 输入文字..."></textarea>
+					</div>
+				</div>
+			</div>
+			<div class="content-details">
+				<div class="page-content">
+					<div class="page-title"><a href="#">以大数据智慧驱动 破解交通行业痛点难点</a></div>
+					<div class="page-main">作为大数据试验区和大数据典型行业的有力对接,大赛得到了交通运输部大力支持,实现与陕西、湖北、四川、湖南、云南等省交通运输厅的联合主办,以及滴滴出行、百度、高德、 货车帮等知名企业的鼎力协助。 共同推进交通运输供给侧改革,促进行业提质增效和转型升级、绿色智慧的现代综合交通运输体系,借助…
+					</div>
+					<div class="page-news">
+						<div class="fl">布鲁斯·班纳</div>
+						<div class="news-main fr">
+							<span>浏览次数20次</span>
+							<span>2017-05-09 14：20</span>
+							<span><img src='../img/assist.png'/></span>
+							<span class="comment"><img src='../img/comment.png'/></span>
+						</div>
+					</div>
+					<div class="line"></div>
+				</div>
+				<div class="page-news comment-main">
+					<div class="news-mains fl">
+						<div class="news-per fl">
+							<span><img src='../img/dianzan.png'/>&nbsp; 托尼·斯塔克</span>
+						</div>
+						<div class="news-per fl">
+							<span><img src='../img/dianzan.png'/>&nbsp; 尼克·弗瑞</span>
+						</div>
+					</div>
+					<div class="like-person fl">
+						<span>|</span>
+						<span>共2人觉得很赞</span>
+					</div>
+				</div>
+			</div>
+			<div class="content-details">
+				<div class="page-content">
+					<div class="page-title"><a href="#">以大数据智慧驱动 破解交通行业痛点难点</a></div>
+					<div class="page-main">作为大数据试验区和大数据典型行业的有力对接,大赛得到了交通运输部大力支持,实现与陕西、湖北、四川、湖南、云南等省交通运输厅的联合主办,以及滴滴出行、百度、高德、 货车帮等知名企业的鼎力协助。 共同推进交通运输供给侧改革,促进行业提质增效和转型升级、绿色智慧的现代综合交通运输体系,借助…
+					</div>
+					<div class="page-news">
+						<div class="fl">布鲁斯·班纳</div>
+						<div class="news-main fr">
+							<span>浏览次数20次</span>
+							<span>2017-05-09 14：20</span>
+							<span><img src='../img/assist.png'/></span>
+							<span class="comment"><img src='../img/comment.png'/></span>
+						</div>
+					</div>
+					<div class="line"></div>
+				</div>
+				<div class="page-news comment-main">
+					<div class="news-mains fl">
+						<div class="news-per fl">
+							<span><img src='../img/dianzan.png'/>&nbsp; 托尼·斯塔克</span>
+						</div>
+						<div class="news-per fl">
+							<span><img src='../img/dianzan.png'/>&nbsp; 尼克·弗瑞</span>
+						</div>
+					</div>
+					<div class="like-person fl">
+						<span>|</span>
+						<span>共2人觉得很赞</span>
+					</div>
+				</div>
+			</div>
+			<div class="load-more">
+				加载更多
+				<img src="../img/load.png" />
+			</div>
+		</div>
+		<!--弹出框-->
+		<div class="pop-up"></div>
+		<div class="popUp" id="popUp">
+			<div class="page-top">发布详情</div>
+			<div class="pop-main">
+				<div class="pop-headline">
+					<span class="">标题：</span>
+					<input type="text" placeholder="输入文字..." />
+				</div>
+				<div class="pop-headline pop-review">
+					<label class="fl">内容：</label>
+					<textarea class="fr" rows="8" cols="149" placeholder="输入文字..."></textarea>
+				</div>
+			</div>
+			<div class="page-release">
+				<button class="release fabu fr">发布</button>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript" src="../js/jquery-3.2.1.min.js" charset="utf-8"></script>
+	<script type="text/javascript" src="../js/businessConditions.js" charset="utf-8"></script>
+	<script src="../js/laydate/laydate.js"></script>
+</body>
+
+</html>

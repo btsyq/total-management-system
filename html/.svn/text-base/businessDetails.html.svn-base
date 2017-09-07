@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>详情</title>
+	<link rel="stylesheet" type="text/css" href="../css/businessDetails.css" />
+</head>
+
+<body>
+	<div class="page-body">
+		<div class="menu"></div>
+		<div class="content">
+			<div class="page-top">以大数据智慧驱动 破解交通行业痛点难点</div>
+			<div class="page-message">
+				<span class="fl">2017-05-09 14:20</span>
+				<span class="msg-person">布鲁斯·班纳</span>
+				<span class="fr">浏览20次</span>
+			</div>
+			<div class="page-main">
+				<p>云上贵州,再次风起云涌。5月5日,2017中国“云上贵州”智慧交通大数据应用创新大赛在贵阳正式启动。</p>
+				<p>为鼓励企业、团队、创客的参赛积极性,大赛设置了若干奖项,总奖金200万元。</p>
+				<p>作为大数据试验区和大数据典型行业的有力对接,大赛得到了交通运输部大力支持,实现与陕西、湖北、四川、湖南、云南等省交通运输厅的联合主办,以及滴滴出行、百度、高德货车帮等知名企业的鼎力协助。共同推进交通运输供给侧改革,促进行业提质增效和转型升级,构建安全便捷、畅通高效、绿色智慧的现代综合交通运输体系。</p>
+				<p>借助大数据的力量,用智慧的手段直击现阶段交通运输行业的痛点、难点。大赛将汇聚一大批优质大数据项目,凝聚一大批优秀大数据人才,用实际的解决方案来推动“智慧交通”向纵深发展,用大数据提升交通行业的治理能力。</p>
+				<p>众人拾柴火焰高,秉着“数据驱动　智慧交通”的理念,来自五湖四海的数据管理机构用开放的心态,为大赛提供脱敏后的固定时间段公开数据,包含了贵州交通行业数据、交通运输部“出行云”平台出行数据、高德地图和路况数据(图盟),以及北上广深等省市的政府开放数据。</p>
+				<p>“贵州作为全国首个国家级大数据综合试验区,在大数据创新领域一直走在全国的前列。”交通运输部科技司副司长洪晓枫谈到,此次面向交通主题的创新大赛,体现了贵州省对交通运输行业的关注和支持,也给交通运输行业创造了一个优质的创新平台。</p>
+				<p>本次大赛启动之后,一场力争用大数据挖掘智慧交通新未来的篇章正徐徐展开……</p>
+				<p>“我们现在守着巨大的金库——海量的交通数据,却没有打开金库大门的钥匙。”省交通运输厅科教处处长康厚荣说,全国各地在交通信息化发展和应用方面进行了各种探索与实践我们希望通过本次智慧交通创新大赛将这些实践的成果集中起来,选拔出可行性高、最优化、最有效的大数据解决方案,解决交通行业发展、管理、服务、运营等重要环节的难题。</p>
+				<p>“我们现在守着巨大的金库——海量的交通数据,却没有打开金库大门的钥匙。”省交通运输厅科教处处长康厚荣说,全国各地在交通信息化发展和应用方面进行了各种探索与实践我们希望通过本次智慧交通创新大赛将这些实践的成果集中起来,选拔出可行性高、最优化、最有效的大数据解决方案,解决交通行业发展、管理、服务、运营等重要环节的难题。</p>
+				<p>对于大赛的举办,很多人也满怀期待,希望见证交通行业能由此大跨一步,进入大数据这片蓝海,与数据时代融合,繁荣共生......</p>
+				<p>“把大数据变为生产力是这次大赛要做的事。”陕西省交通运输厅科技处处长伍石生表示,通过大赛把原有数据的共享体制机制障碍消除了,为真正寻找解决交通实际问题的新思路新方法提供了更多可能。</p>
+				<p>“把大数据变为生产力是这次大赛要做的事。”陕西省交通运输厅科技处处长伍石生表示,通过大赛把原有数据的共享体制机制障碍消除了,为真正寻找解决交通实际问题的新思路新方法提供了更多可能。</p>
+			</div>
+			<div class="page-news">
+				<div class="news-main fr">
+					<span><img src='../img/assist.png'/></span>
+					<span class="comment"><img id='pic' src='../img/comment.png'/></span>
+				</div>
+			</div>
+			<div class="line"></div>
+			<div class="page-news comment-main">
+				<div class="news-main fl">
+					<span class="dianzan"><img src='../img/dianzan.png'/>&nbsp; 托尼·斯塔克</span>
+					<span class="comment"><img src='../img/dianzan.png'/>&nbsp; 尼克·弗瑞</span>
+					<span>|</span>
+					<span>共2人觉得很赞</span>
+				</div>
+			</div>
+			<div class="review-details">
+				<div class="review-main">
+					<div class="main-top cl">
+						<div class="fl">娜塔莎·罗曼诺夫：</div>
+						<div class="fr">05-10 14:20</div>
+					</div>
+					<div class="page-data main-details cl">作为大数据试验区和大数据典型行业的有力对接为大数据试验区和大数据典型行业的有力对接z,大赛得到了交通运输部大力支持,实现与陕西、湖北、四川、湖南、云南等省交通运输厅的联合主办,以及滴滴出行、百度、高德、 货车帮等知名企业的鼎力协助。
+						共同推进交通运输供给侧改革,促进行业提质增效和转型升级、绿色智慧的现代综合交通运输体系,借助…
+					</div>
+				</div>
+				<div class="review-main">
+					<div class="main-top cl">
+						<div class="fl">布鲁斯·班纳：</div>
+						<div class="fr">05-10 14:20</div>
+					</div>
+					<div class="page-data main-details cl"><span>回复</span><span class="huifu">娜塔莎·罗曼诺夫：</span> 说的很对啊！
+					</div>
+				</div>
+				<div class="review-main">
+					<div class="main-top cl">
+						<div class="fl">布鲁斯·班纳：</div>
+						<div class="fr">05-10 14:20</div>
+					</div>
+					<div class="page-data main-details cl"><span>回复</span><span class="huifu">娜塔莎·罗曼诺夫：</span> 说的很对啊！
+					</div>
+				</div>
+				<div class="review-main review-submit">
+					<input class="import-content" type="text" placeholder="评论 | 输入文字..." />
+				</div>
+			</div>
+			<div class="page-release">
+				<button class="release fr">发布</button>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript" src="../js/jquery-3.2.1.min.js" charset="utf-8"></script>
+</body>
+
+</html>

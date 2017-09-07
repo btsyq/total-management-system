@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>驾驶舱</title>
+	<link rel="stylesheet" type="text/css" href="../css/style.css" />
+	<link rel="stylesheet" type="text/css" href="../css/userinfo.css" />
+</head>
+
+<body>
+	<div class="pop-business">
+		<div class="pop-close"></div>
+		<div class="pop-title">
+			<div class="user-info">用户信息</div>
+		</div>
+		<div class="user-top cl">
+			<div class="user-btn employee fl">员工信息</div>
+			<div class="user-btn minute fl">详细信息</div>
+		</div>
+		<div class="employee-message">
+			<div class="staff-message cl">
+				<div class="staff-pic fl"></div>
+				<div class="staff-record fr">
+					<table class="table-fixed" width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tbody>
+							<tr>
+								<td class="tab-header">登录名</td>
+								<td>zs@jusfoun.com</td>
+								<td class="tab-header">员工工号</td>
+								<td>12345</td>
+							</tr>
+							<tr>
+								<td class="tab-header">姓名</td>
+								<td>张三</td>
+								<td class="tab-header">英文名</td>
+								<td>- -</td>
+							</tr>
+							<tr>
+								<td class="tab-header">姓名拼音</td>
+								<td>zhangsan</td>
+								<td class="tab-header">员工性别</td>
+								<td>男</td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
+			</div>
+			<div class="contact-info">
+				<div class="user-info">联系方式</div>
+				<table class="table-fixed" width="100%" border="0" cellspacing="0" cellpadding="0">
+					<tbody>
+						<tr>
+							<td class="tab-header">办公电话</td>
+							<td>XXX</td>
+							<td class="tab-header">移动电话</td>
+							<td></td>
+						</tr>
+						<tr>
+							<td class="tab-header">邮箱</td>
+							<td>XXX</td>
+							<td class="tab-header">家庭电话</td>
+							<td></td>
+						</tr>
+						<tr>
+							<td class="tab-header">IM</td>
+							<td></td>
+							<td class="tab-header">RTX</td>
+							<td></td>
+						</tr>
+						<tr>
+							<td class="tab-header">邮政编码</td>
+							<td></td>
+							<td class="tab-header">区域</td>
+							<td></td>
+						</tr>
+						<tr>
+							<td class="tab-header">家庭住址</td>
+							<td></td>
+							<td class="tab-header"></td>
+							<td></td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+		</div>
+		<div class="minute-message">
+			<table class="table-fixed" width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tbody>
+							<tr>
+								<td class="tab-header">员工类型</td>
+								<td>XXXXX</td>
+								<td class="tab-header">上级主管</td>
+								<td></td>
+							</tr>
+							<tr>
+								<td class="tab-header">岗位职务</td>
+								<td>XXXXX</td>
+								<td class="tab-header">专业职称</td>
+								<td></td>
+							</tr>
+							<tr>
+								<td class="tab-header">成本中心</td>
+								<td></td>
+								<td class="tab-header">成本费率组</td>
+								<td></td>
+							</tr>
+							<tr>
+								<td class="tab-header">所属公司</td>
+								<td></td>
+								<td class="tab-header"></td>
+								<td></td>
+							</tr>
+							<tr>
+								<td class="tab-header">民族</td>
+								<td></td>
+								<td class="tab-header">婚姻状况</td>
+								<td></td>
+							</tr>
+							<tr>
+								<td class="tab-header">证件类型</td>
+								<td></td>
+								<td class="tab-header">证件号码</td>
+								<td></td>
+							</tr>
+							<tr>
+								<td class="tab-header">户口所在地</td>
+								<td></td>
+								<td class="tab-header">户籍性质</td>
+								<td></td>
+							</tr>
+							<tr>
+								<td class="tab-header">户籍地址</td>
+								<td></td>
+								<td></td>
+								<td></td>
+							</tr>
+							<tr>
+								<td class="tab-header">是否有居住证</td>
+								<td></td>
+								<td class="tab-header">居住证有效期</td>
+								<td></td>
+							</tr>
+							<tr>
+								<td class="tab-header">是否有就业证</td>
+								<td></td>
+								<td class="tab-header">就业证有效期</td>
+								<td></td>
+							</tr>
+						</tbody>
+					</table>
+		</div>
+	</div>
+	<script src="../js/jquery-3.2.1.min.js"></script>
+	<script src="../js/userinfo.js"></script>
+</body>
+
+</html>

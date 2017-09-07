@@ -1,0 +1,159 @@
+body,h1,h2,h3,h4,h5,h6,div,p,dl,dt,dd,ol,ul,li,form,table,th,td,a,img,span,strong,var,em,input,textarea,select,option{margin: 0; padding: 0;}
+html,body{font-family:"微软雅黑",Arail,Tabhoma; font-size: 16px; text-align: left; height: 100%;width: 100%;}
+ul,ol{list-style: none;}
+img{border: 0;}
+input,select,textarea{outline:0;}
+textarea{resize:none;}
+table{border-collapse: collapse; border-spacing: 0;}
+th,strong,var,em{font-weight: normal; font-style: normal;}
+a{text-decoration: none;color:#fff;}
+.fl{
+	float: left;
+}
+.fr{
+	float: right;
+}
+.cl{
+	clear: both;
+}
+body{
+	width:100%;
+	height:100%;
+	margin:0;
+	padding:0;
+	/*overflow: hidden;*/
+	min-width: 900px;
+	background: url(../img/bg.jpg) no-repeat;
+	background-size: cover;
+}
+/*.content{
+	width:90%;
+	height:auto;
+	margin: 0 5%;
+	border:1px solid #5db0fe;
+	background: rgba(1, 102, 198, 0.5);
+}*/
+.content{
+	width:1200px;
+	height:auto;
+	margin: 0 auto;
+	border:1px solid #5db0fe;
+	background: rgba(1, 102, 198, 0.5);
+	font-size:14px;
+}
+.menu{
+	height:60px;
+	margin-bottom:21px;
+}
+.page-top{
+	height:60px;
+	background: rgba(39,123,203,0.6);
+	color:#fff;
+	font-size:18px;
+	line-height: 60px;
+	text-align: center;
+}
+.page-message{
+	text-align: center;
+	color:#d59749;
+	margin: 24px 0 32px 0;
+	padding: 0 30px;
+}
+.msg-person{
+	color:#46a2f8;
+}
+.page-main{
+	color:#8cb8e3;
+	line-height: 35px;
+	text-indent: 24px;
+	padding:0 30px;
+	text-align:justify;
+	font-size:14px;
+}
+.page-news{
+	padding:0 30px;
+	height:38px;
+	color:#fff;
+}
+.news-main span{
+	margin-left:20px;
+}
+.line{
+	margin:0 28px;
+	border-bottom:1px solid #2774bc;
+}
+.comment-main{
+	margin:13px 0 0 0;
+}
+.dianzan{
+	margin: 0px !important;
+}
+.review-details{
+	margin: 24px 22px;
+	height:auto;
+	font-size:14px;
+}
+.review-main{
+	padding: 21px 22px;
+	margin-top:1px;
+	background: rgba(1, 7, 48, 0.5);
+}
+.main-top{
+	height:25px;
+	color:#1983e7;
+}
+.main-details{
+	width:100%;
+	margin:20px 0 5px 0;
+}
+.page-data {
+    /* height: 50px; */
+    max-height: 50px;
+    line-height: 28px;
+    margin: 22px 0 22px 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    color: #8cbcea;
+}
+.huifu{
+	color:#1983e7;
+}
+.more-review{
+	text-align: center;
+	color:#1983e7;
+}
+.more-review img{
+	vertical-align: middle;
+	margin-left:10px;
+}
+.review-submit{
+	padding:14px 22px;
+}
+.import-content{
+	width:100%;
+	height:50px;
+	line-height:28px;
+	background: rgba(0, 5, 37, 0.5);
+	border: none;
+	padding-left: 10px;
+	color:#8cbcea;
+	font-size:14px;
+}
+.page-release{
+	height:30px;
+	margin-bottom: 30px;
+	padding: 0 30px;
+}
+.release{
+	width:80px;
+	height:30px;
+	background: #e79709;
+	color:#fff;
+	border: none;
+	border-radius:5px;
+	cursor: pointer;
+	font-size:14px;
+}

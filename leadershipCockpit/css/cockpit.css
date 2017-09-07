@@ -1,0 +1,186 @@
+.pop-box{
+    margin: 0;
+    padding: 0;
+}
+.pop-box{
+    width:860px;
+    height:600px;
+    padding:0 40px;
+    margin: 0 auto;
+    background: url(../img/pop-bg.png);
+    background-size:100% 100%;
+    position: relative;
+    display: block;
+}
+.pop-title{
+    height:32.5px;
+    padding: 12.5px 0 0 0;
+    font-size: 12px;
+}
+.pop-close{
+    width:13px;
+    height:13px;
+    background: url(../img/close.png);
+    background-size:100% 100%;
+    position: absolute;
+    top:20px;
+    right:20px;
+    cursor: pointer;
+}
+.pub-btn{
+    width:90px;
+    height:25px;
+    line-height:25px;
+    text-align: center;
+    color:#5dd9fe;
+    cursor: pointer;
+}
+.pre-resources{
+    display: none;
+}
+.pre-construction{
+    display: none;
+}
+.summarize{
+    background: url(../img/role_sum.png);
+    background-size:100% 100%;
+    color:#fcd200;
+    /*margin-top:8.5px;*/
+}
+.resources{
+    background: url(../img/role-sum2.png);
+    background-size:100% 100%;
+    margin-left:20px;
+}
+.construction{
+    background: url(../img/role-sum2.png);
+    background-size:100% 100%;
+    margin-left:20px;
+}
+.popover{
+    height:90%;
+}
+.pop-left{
+    width:48.5%;
+}
+.pop-right{
+    width:48.5%;
+}
+.basic-message{
+    color:#00fcff;
+    font-size:14px;
+    padding: 15px 0 8px 0;
+}
+/*表格样式*/
+.table-fixed {
+    border: 1px solid #276eab;
+    border-radius:5px;
+    table-layout: fixed;
+    width: 100%;
+	font-size:12px;
+    color:#fff;
+}
+.table-roll tbody{
+	display: block;
+}
+.table-roll tr{
+	display: block;
+}
+.data-news{
+    height:116px;
+}
+.set-message{
+    padding-top: 50px;
+}
+.tab-news{
+    border: 1px solid #276eab;
+    border-radius:5px;
+    table-layout: fixed;
+    width: 100%;
+	font-size:12px;
+    color:#fff;
+    text-align: center;
+    margin-top:54px;
+}
+.tab-news tr{
+    color:#aeecff;
+    height:38px;
+    line-height: 38px;
+    border-bottom: 1px solid #276eab;
+}
+.tab-news th{
+   border-right: 1px solid #276eab; 
+}
+.tab-news td{
+   border-right: 1px solid #276eab; 
+}
+/*.tab-news td{
+    width:20%;
+	height: 38px;
+	box-sizing: border-box;
+	border-bottom: 1px solid #276eab;
+	color: #d5dbe6;
+}*/
+.tab-task{
+    margin-top:10px;
+}
+.selblock{
+	display: block;
+	height: 24px;
+	width: 120px;
+	background: url(../img/selbg.png) no-repeat;
+	background-size: 100% 100%;
+	cursor: pointer;
+	position: relative;
+}
+.selblock>.selon{
+	position: absolute;
+	width: 85px;
+	height: 20px;
+	left: 10px;
+	top: 2px;
+	line-height: 20px;
+	color: #016db9;
+    font-size:12px;
+}
+.selblock>.selop{
+	position: absolute;
+	left: 0;
+	top: 25px;
+	width: 120px;
+	box-shadow: 0px 5px 10px rgba(0,0,0,.5);
+	display: none;
+	z-index: 2;
+}
+.selop>ul{
+	display: block;
+	color: #002373;
+	background: url(../img/selb.png) repeat-y;
+	background-size: 100%;
+}
+.selop>ul>li{
+	display: block;
+	height: 20px;
+	line-height: 20px;
+	padding: 0 10px;
+	overflow: hidden;
+	text-overflow:ellipsis;
+	white-space: nowrap;
+}
+.selop>ul>li:hover{
+	background: #013baf;
+	color: #fff;
+}
+.selop_h{
+	height: 13px;
+	background: url(../img/selh.png) no-repeat;
+	background-size: 100% 100%;
+}
+.selop_f{
+	height: 5px;
+	background: url(../img/self.png) no-repeat;
+	background-size: 100% 100%;
+}
+.mission{
+    padding: 15px 0 20px 0;
+}

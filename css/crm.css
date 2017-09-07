@@ -1,0 +1,121 @@
+body,h1,h2,h3,h4,h5,h6,div,p,dl,dt,dd,ol,ul,li,form,table,th,td,a,img,span,strong,var,em,input,textarea,select,option{margin: 0; padding: 0;}
+html,body{font-family:"微软雅黑",Arail,Tabhoma; font-size: 16px; text-align: left; height: 100%;width: 100%;}
+ul,ol{list-style: none;}
+img{border: 0;}
+input,select,textarea{outline:0;}
+textarea{resize:none;}
+table{border-collapse: collapse; border-spacing: 0;}
+th,strong,var,em{font-weight: normal; font-style: normal;}
+a{text-decoration: none;}
+
+.fl{
+	float: left;
+}
+.fr{
+	float: right;
+}
+.cl{
+	clear: both;
+}
+
+body{
+	margin:0;
+	padding:0;
+}
+.report-news{
+    border: 1px solid #D5D5D5;
+    margin-top: 30px;
+}
+.business-report{
+    background: #F5F5F5;
+    padding:0 25px;
+    height:44px;
+    line-height: 44px;
+    font-size: 18px;
+    color: #222;
+}
+.business-report span:nth-child(2){
+    font-size: 16px;
+    cursor: pointer;
+}
+.business-news{
+    padding-left:25px;
+    margin: 30px 0;
+    font-size:17px;
+}
+.business-content{
+    margin: 15px 0 37px;
+    padding-left: 25px;
+    line-height: 35px;
+}
+.content-details{
+    padding: 0 25px;
+    font-size: 14px;
+    line-height: 35px;
+}
+.content-details span:nth-child(1){
+    display: inline-block;
+    width: 180px;
+    vertical-align: top;
+}
+/*.client-news{
+    margin-left: 30px;
+}*/
+.table-fixed {
+    border: 1px solid #dbdbdb;
+    table-layout: fixed;
+    /*width: 100%;*/
+    margin-bottom: 30px;
+}
+.table-fixed th {
+    height: 38px;
+    border: 1px solid #dbdbdb;
+    text-align: center;
+}
+.table-fixed td {
+    border-right: 1px solid #dbdbdb;
+    text-align: left;
+    padding: 0 15px;
+}
+.table-fixed td span{
+    display: block;
+}
+.table-fixed td span:nth-child(1){
+    margin-top: 20px;
+}
+.project-details{
+    font-size:14px;
+    /*margin: 30px 0 37px;*/
+    padding-left: 25px;
+    line-height: 35px;
+    height:100px;
+}
+.project-title{
+    width:7%;
+}
+.project-main{
+    width:90%;
+    margin-left: 3%;
+}
+.project-main span{
+    width:100%;
+    display: block;
+}
+.strategy{
+    margin-left: 3%;
+}
+.details-person{
+    width:90%;
+}
+.details-name{
+    width:7% !important;
+}
+.details-tel{
+    width:12%;
+}
+.details-mail{
+    width:20%;
+}
+.details-news{
+    margin-left:180px;
+}

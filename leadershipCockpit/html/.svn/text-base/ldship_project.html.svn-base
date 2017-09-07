@@ -1,0 +1,2724 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>驾驶舱</title>
+	<link rel="stylesheet" type="text/css" href="../css/style.css" />
+	<link rel="stylesheet" type="text/css" href="../css/ldship_project.css" />
+
+</head>
+
+<body>
+	<div class="bgimg">
+		<img src="../img/ldsbg1.jpg" class="bgi1" />
+		<img src="../img/ldsbg2.jpg" class="bgi2" />
+		<img src="../img/ldsbg3.jpg" class="bgi3" />
+		<img src="../img/ldsbg4.jpg" class="bgi4" />
+	</div>
+	<div class="main">
+		<div class="header">
+
+			<div class="nav_wrap">
+				<a href="">
+					<div class="logo">
+
+					</div>
+				</a>
+				<a href="">
+					<div class="exit">
+
+					</div>
+				</a>
+				<ul class="nav">
+					<a href="">
+						<li>OA</li>
+					</a>
+					<a href="">
+						<li>CRM</li>
+					</a>
+					<a href="">
+						<li>TEAMWORK</li>
+					</a>
+					<a href="">
+						<li>BUGFREE</li>
+					</a>
+					<a href="">
+						<li>E-LEARNING</li>
+					</a>
+				</ul>
+			</div>
+		</div>
+		<div class="content">
+			<div class="ct_bg">
+				<img src="../img/contentbg.png" / class="ct_bg_1">
+				<img src="../img/contentbg2.png" class="ct_bg_2" />
+			</div>
+			<div class="wheel_wrap wheel_pull">
+				<div class="wheel_layer">
+					<div class="wl_in">
+						<div class="wheel-menu">
+							<div class="menu-group menu-g-change">
+								<span class="menu-icon icon1"></span>
+								<span class="menu-title">团队</span>
+							</div>
+							<div class="menu-group">
+								<span class="menu-icon icon2"></span>
+								<span class="menu-title menu-change">项目</span>
+							</div>
+							<div class="menu-group">
+								<span class="menu-icon icon3"></span>
+								<span class="menu-title menu-change">商机</span>
+							</div>
+							<div class="menu-group">
+								<span class="menu-icon icon4"></span>
+								<span class="menu-title menu-change">周报</span>
+							</div>
+							<div class="menu-group">
+								<span class="menu-icon icon5"></span>
+								<span class="menu-title">军火库</span>
+							</div>
+							<div class="menu-group">
+								<span class="menu-icon icon6"></span>
+								<span class="menu-title">模板</span>
+							</div>
+							<div class="menu-group">
+								<span class="menu-icon icon7"></span>
+								<span class="menu-title">商情</span>
+							</div>
+							<div class="menu-group">
+								<span class="menu-icon icon8"></span>
+								<span class="menu-title">公告</span>
+							</div>
+							<div class="menu-group">
+								<span class="menu-icon icon9"></span>
+								<span class="menu-title">通讯录</span>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="wheel_bg3"></div>
+				<div class="wheel_bg2"></div>
+				<div class="wheel_bg1"></div>
+				<div class="wheel">
+					<div class="fanbtn fb1 active">
+
+						<div class="linkbtn">
+							<div class="link_icon zb_icon">
+
+							</div>
+							<p>
+								周报
+							</p>
+						</div>
+
+					</div>
+					<div class="fanbtn fb2">
+
+						<div class="linkbtn">
+							<div class="link_icon td_icon">
+
+							</div>
+							<p>
+								团队
+							</p>
+						</div>
+
+					</div>
+					<div class="fanbtn fb3">
+
+						<div class="linkbtn">
+							<div class="link_icon xm_icon">
+
+							</div>
+							<p>
+								项目
+							</p>
+						</div>
+
+					</div>
+					<div class="fanbtn fb4">
+
+						<div class="linkbtn">
+							<div class="link_icon sj_icon">
+
+							</div>
+							<p>
+								商机
+							</p>
+						</div>
+
+					</div>
+					<div class="fanbtn fb5">
+
+					</div>
+					<div class="link_other lo1">
+						<a href="">
+							<div class="linkbtn_other">
+								<div class="link_icon jhk_icon">
+
+								</div>
+								<p>
+									军火库
+								</p>
+							</div>
+						</a>
+					</div>
+					<div class="link_other lo2">
+						<a href="">
+							<div class="linkbtn_other">
+								<div class="link_icon mb_icon">
+
+								</div>
+								<p>
+									模板
+								</p>
+							</div>
+						</a>
+					</div>
+					<div class="link_other lo3">
+						<a href="">
+							<div class="linkbtn_other">
+								<div class="link_icon sq_icon">
+
+								</div>
+								<p>
+									商情
+								</p>
+							</div>
+						</a>
+					</div>
+					<div class="link_other lo4">
+						<a href="">
+							<div class="linkbtn_other">
+								<div class="link_icon gg_icon">
+
+								</div>
+								<p>
+									公告
+								</p>
+							</div>
+						</a>
+					</div>
+					<div class="link_other lo5">
+						<a href="">
+							<div class="linkbtn_other">
+								<div class="link_icon txl_icon">
+
+								</div>
+								<p>
+									通讯录
+								</p>
+							</div>
+						</a>
+					</div>
+				</div>
+				<div class="wheel_in">
+					<img src="../img/ballmap1.png" class="ballmap1" />
+					<img src="../img/ballmap2.png" class="ballmap2" />
+					<img src="../img/ballmap3.png" class="ballmap3" />
+					<img src="../img/ballmap4.png" class="ballmap4" />
+				</div>
+
+			</div>
+
+			<div class="table_wrap table_ani">
+				<div class="tabletab" id="team">
+					<div class="searchblock">
+						<div class="sb_bg1">
+
+						</div>
+						<div class="sb_bg2">
+
+						</div>
+						<div class="sb_bg3">
+
+						</div>
+						<div class="sb_content">
+							<div class="s_title">
+								<div class="s_logo team_icon">
+									<i class="logoicon">
+											
+										</i>
+									<h2>
+										团队
+									</h2>
+
+								</div>
+								<div class="s_btn">
+									<button class="btn_reset">重置</button>
+									<button class="btn_search ">检索</button>
+								</div>
+							</div>
+							<div class="s_content">
+								<div class="s_block1">
+									<span>搜&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;索&nbsp;:&nbsp;</span>
+									<div class="srchblock">
+										<input type="text" id="" placeholder="请输入姓名、专业、部门、项目经验等关键词进行搜索……" />
+										<div class="searchbtn">
+
+										</div>
+									</div>
+								</div>
+								<div class="s_block2">
+									<span>行业标签&nbsp;:&nbsp;</span>
+									<div class="selblock">
+										<div class="selon">
+											请选择
+										</div>
+										<div class="selop">
+											<div class="selop_h">
+
+											</div>
+											<ul>
+												<li>全部</li>
+												<li>地税</li>
+												<li>国税</li>
+												<li>审计</li>
+											</ul>
+											<div class="selop_f">
+
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="s_block2">
+									<span>职&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;位&nbsp;:&nbsp;</span>
+									<div class="selblock">
+										<div class="selon">
+											请选择
+										</div>
+										<div class="selop">
+											<div class="selop_h">
+
+											</div>
+											<ul>
+												<li>全部</li>
+												<li>地税</li>
+												<li>国税</li>
+												<li>审计</li>
+											</ul>
+											<div class="selop_f">
+
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="s_block2">
+									<span>岗位标签&nbsp;:&nbsp;</span>
+									<div class="selblock">
+										<div class="selon">
+											请选择
+										</div>
+										<div class="selop">
+											<div class="selop_h">
+
+											</div>
+											<ul>
+												<li>全部</li>
+												<li>地税</li>
+												<li>国税</li>
+												<li>审计</li>
+											</ul>
+											<div class="selop_f">
+
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="s_block2 s_toggle">
+									<span>技能标签&nbsp;:&nbsp;</span>
+									<div class="selblock">
+										<div class="selon">
+											请选择
+										</div>
+										<div class="selop">
+											<div class="selop_h">
+
+											</div>
+											<ul>
+												<li>全部</li>
+												<li>地税</li>
+												<li>国税</li>
+												<li>审计</li>
+											</ul>
+											<div class="selop_f">
+
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="s_block2 s_toggle">
+									<span>学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;历&nbsp;:&nbsp;</span>
+									<div class="selblock">
+										<div class="selon">
+											请选择
+										</div>
+										<div class="selop">
+											<div class="selop_h">
+
+											</div>
+											<ul>
+												<li>全部</li>
+												<li>地税</li>
+												<li>国税</li>
+												<li>审计</li>
+											</ul>
+											<div class="selop_f">
+
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="s_block2 s_toggle">
+									<span>专&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;业&nbsp;:&nbsp;</span>
+									<div class="selblock">
+										<div class="selon">
+											请选择
+										</div>
+										<div class="selop">
+											<div class="selop_h">
+
+											</div>
+											<ul>
+												<li>全部</li>
+												<li>地税</li>
+												<li>国税</li>
+												<li>审计</li>
+											</ul>
+											<div class="selop_f">
+
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="s_block2 s_toggle">
+									<span>工作年限&nbsp;:&nbsp;</span>
+									<div class="selblock">
+										<div class="selon">
+											请选择
+										</div>
+										<div class="selop">
+											<div class="selop_h">
+
+											</div>
+											<ul>
+												<li>全部</li>
+												<li>地税</li>
+												<li>国税</li>
+												<li>审计</li>
+											</ul>
+											<div class="selop_f">
+
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="slidedown">
+								<div class="sldlogo"></div>
+							</div>
+						</div>
+					</div>
+					<div class="tableblock">
+						<div class="sb_bg1">
+
+						</div>
+						<div class="sb_bg2">
+
+						</div>
+						<div class="sb_bg4">
+
+						</div>
+						<div class="tb_content">
+							<div class="checkmenu">
+								<div class="cm_logo">
+
+								</div>
+							</div>
+							<div class="cm_list">
+								<div class="cl_wrap">
+									<div class="tabcol">
+										<div class="mycheck">
+											<input type="checkbox" id="checkbox0">
+											<label for="checkbox0"></label>
+										</div>
+										<div class="cbox_txt">
+											所在地
+										</div>
+									</div>
+									<div class="tabcol">
+										<div class="mycheck">
+											<input type="checkbox" id="checkbox2">
+											<label for="checkbox2"></label>
+										</div>
+										<div class="cbox_txt">
+											婚姻状况
+										</div>
+									</div>
+									<div class="tabcol">
+										<div class="mycheck">
+											<input type="checkbox" id="checkbox3">
+											<label for="checkbox3"></label>
+										</div>
+										<div class="cbox_txt">
+											首次参加工作时间
+										</div>
+									</div>
+									<div class="tabcol">
+										<div class="mycheck">
+											<input type="checkbox" id="checkbox4">
+											<label for="checkbox4"></label>
+										</div>
+										<div class="cbox_txt">
+											直属上级领导
+										</div>
+									</div>
+									<div class="tabcol">
+										<div class="mycheck">
+											<input type="checkbox" id="checkbox5">
+											<label for="checkbox5"></label>
+										</div>
+										<div class="cbox_txt">
+											最近工作经历
+										</div>
+									</div>
+
+
+								</div>
+							</div>
+							<div class="tb_list">
+
+
+								<table id="team_table" class="mtable" border="0" cellspacing="0" cellpadding="0">
+									<thead>
+										<tr>
+											<th class="tbnum">序号</th>
+											<th>姓名</th>
+											<th>年龄</th>
+											<th>劳动关系所在地</th>
+											<th>部门</th>
+											<th>职位</th>
+											<th>岗位标签</th>
+											<th>技能标签</th>
+											<th>行业标签</th>
+											<th>从业年限</th>
+											<th>最高学历</th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr>
+											<td class="tbnum">1</td>
+											<td>张三</td>
+											<td>33</td>
+											<td>北京</td>
+											<td>财务部</td>
+											<td>经理</td>
+											<td>-</td>
+											<td>-</td>
+											<td>-</td>
+											<td>10年</td>
+											<td>本科</td>
+										</tr>
+										<tr>
+											<td class="tbnum">1</td>
+											<td>张三</td>
+											<td>33</td>
+											<td>北京</td>
+											<td>财务部</td>
+											<td>经理</td>
+											<td>-</td>
+											<td>-</td>
+											<td>-</td>
+											<td>10年</td>
+											<td>本科</td>
+										</tr>
+										<tr>
+											<td class="tbnum">1</td>
+
+											<td>张三</td>
+											<td>33</td>
+											<td>北京</td>
+											<td>财务部</td>
+											<td>经理</td>
+											<td>-</td>
+											<td>-</td>
+											<td>-</td>
+											<td>10年</td>
+											<td>本科</td>
+										</tr>
+										<tr>
+											<td class="tbnum">1</td>
+											<td>张三</td>
+											<td>33</td>
+											<td>北京</td>
+											<td>财务部</td>
+											<td>经理</td>
+											<td>-</td>
+											<td>-</td>
+											<td>-</td>
+											<td>10年</td>
+											<td>本科</td>
+										</tr>
+										<tr>
+											<td class="tbnum">1</td>
+											<td>张三</td>
+											<td>33</td>
+											<td>北京</td>
+											<td>财务部</td>
+											<td>经理</td>
+											<td>-</td>
+											<td>-</td>
+											<td>-</td>
+											<td>10年</td>
+											<td>本科</td>
+										</tr>
+										<tr>
+											<td class="tbnum">1</td>
+											<td>张三</td>
+											<td>33</td>
+											<td>北京</td>
+											<td>财务部</td>
+											<td>经理</td>
+											<td>-</td>
+											<td>-</td>
+											<td>-</td>
+											<td>10年</td>
+											<td>本科</td>
+										</tr>
+										<tr>
+											<td class="tbnum">1</td>
+											<td>张三</td>
+											<td>33</td>
+											<td>北京</td>
+											<td>财务部</td>
+											<td>经理</td>
+											<td>-</td>
+											<td>-</td>
+											<td>-</td>
+											<td>10年</td>
+											<td>本科</td>
+										</tr>
+										<tr>
+											<td class="tbnum">1</td>
+											<td>张三</td>
+											<td>33</td>
+											<td>北京</td>
+											<td>财务部</td>
+											<td>经理</td>
+											<td>-</td>
+											<td>-</td>
+											<td>-</td>
+											<td>10年</td>
+											<td>本科</td>
+										</tr>
+										<tr>
+											<td class="tbnum">1</td>
+											<td>张三</td>
+											<td>33</td>
+											<td>北京</td>
+											<td>财务部</td>
+											<td>经理</td>
+											<td>-</td>
+											<td>-</td>
+											<td>-</td>
+											<td>10年</td>
+											<td>本科</td>
+										</tr>
+										<tr>
+											<td class="tbnum">1</td>
+											<td>张三</td>
+											<td>33</td>
+											<td>北京</td>
+											<td>财务部</td>
+											<td>经理</td>
+											<td>-</td>
+											<td>-</td>
+											<td>-</td>
+											<td>10年</td>
+											<td>本科</td>
+										</tr>
+										<tr>
+											<td class="tbnum">1</td>
+											<td>张三</td>
+											<td>33</td>
+											<td>北京</td>
+											<td>财务部</td>
+											<td>经理</td>
+											<td>-</td>
+											<td>-</td>
+											<td>-</td>
+											<td>10年</td>
+											<td>本科</td>
+										</tr>
+										<tr>
+											<td class="tbnum">1</td>
+											<td>张三</td>
+											<td>33</td>
+											<td>北京</td>
+											<td>财务部</td>
+											<td>经理</td>
+											<td>-</td>
+											<td>-</td>
+											<td>-</td>
+											<td>10年</td>
+											<td>本科</td>
+										</tr>
+										<tr>
+											<td class="tbnum">1</td>
+											<td>张三</td>
+											<td>33</td>
+											<td>北京</td>
+											<td>财务部</td>
+											<td>经理</td>
+											<td>-</td>
+											<td>-</td>
+											<td>-</td>
+											<td>10年</td>
+											<td>本科</td>
+										</tr>
+										<tr>
+											<td class="tbnum">1</td>
+											<td>张三</td>
+											<td>33</td>
+											<td>北京</td>
+											<td>财务部</td>
+											<td>经理</td>
+											<td>-</td>
+											<td>-</td>
+											<td>-</td>
+											<td>10年</td>
+											<td>本科</td>
+										</tr>
+										<tr>
+											<td class="tbnum">1</td>
+											<td>张三</td>
+											<td>33</td>
+											<td>北京</td>
+											<td>财务部</td>
+											<td>经理</td>
+											<td>-</td>
+											<td>-</td>
+											<td>-</td>
+											<td>10年</td>
+											<td>本科</td>
+										</tr>
+									</tbody>
+
+								</table>
+
+							</div>
+							<div class="tb_page">
+								<button class="page_go">
+										GO
+									</button>
+								<div class="page_ip">
+									<span>前往</span>
+									<input type="text" id="" value="1" />
+									<span>页</span>
+								</div>
+								<div class="page_turn">
+									<button class="p_pre lock">上页</button>
+									<button class="p_nxt">下页</button>
+								</div>
+								<div class="page_num">
+									<span id="">1-10</span>条/共<span id="">100</span>条
+								</div>
+								<div class="page_row">
+									<span id="">
+											10
+										</span>
+									<ul>
+										<li>10</li>
+										<li>20</li>
+										<li>30</li>
+										<li>40</li>
+										<li>50</li>
+									</ul>
+								</div>
+								<div class="page_txt">
+									显示行数
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="tabletab" id="weekly">
+					<div class="searchblock">
+						<div class="sb_bg1">
+
+						</div>
+						<div class="sb_bg2">
+
+						</div>
+						<div class="sb_bg3">
+
+						</div>
+						<div class="sb_content">
+							<div class="s_title">
+								<div class="s_logo team_icon">
+									<i class="logoicon">
+											
+										</i>
+									<h2>
+										周报
+									</h2>
+
+								</div>
+								<div class="s_btn">
+									<button class="btn_reset">重置</button>
+									<button class="btn_search ">检索</button>
+								</div>
+							</div>
+							<div class="s_content">
+								<div class="s_block1">
+									<span>搜&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;索&nbsp;:&nbsp;</span>
+									<div class="srchblock">
+										<input type="text" id="" placeholder="请输入姓名、专业、部门、项目经验等关键词进行搜索……" />
+										<div class="searchbtn">
+
+										</div>
+									</div>
+								</div>
+								<div class="s_block2">
+									<span>行业标签&nbsp;:&nbsp;</span>
+									<div class="selblock">
+										<div class="selon">
+											请选择
+										</div>
+										<div class="selop">
+											<div class="selop_h">
+
+											</div>
+											<ul>
+												<li>全部</li>
+												<li>地税</li>
+												<li>国税</li>
+												<li>审计</li>
+											</ul>
+											<div class="selop_f">
+
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="s_block2">
+									<span>职&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;位&nbsp;:&nbsp;</span>
+									<div class="selblock">
+										<div class="selon">
+											请选择
+										</div>
+										<div class="selop">
+											<div class="selop_h">
+
+											</div>
+											<ul>
+												<li>全部</li>
+												<li>地税</li>
+												<li>国税</li>
+												<li>审计</li>
+											</ul>
+											<div class="selop_f">
+
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="s_block2">
+									<span>岗位标签&nbsp;:&nbsp;</span>
+									<div class="selblock">
+										<div class="selon">
+											请选择
+										</div>
+										<div class="selop">
+											<div class="selop_h">
+
+											</div>
+											<ul>
+												<li>全部</li>
+												<li>地税</li>
+												<li>国税</li>
+												<li>审计</li>
+											</ul>
+											<div class="selop_f">
+
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="s_block2 s_toggle">
+									<span>技能标签&nbsp;:&nbsp;</span>
+									<div class="selblock">
+										<div class="selon">
+											请选择
+										</div>
+										<div class="selop">
+											<div class="selop_h">
+
+											</div>
+											<ul>
+												<li>全部</li>
+												<li>地税</li>
+												<li>国税</li>
+												<li>审计</li>
+											</ul>
+											<div class="selop_f">
+
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="s_block2 s_toggle">
+									<span>学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;历&nbsp;:&nbsp;</span>
+									<div class="selblock">
+										<div class="selon">
+											请选择
+										</div>
+										<div class="selop">
+											<div class="selop_h">
+
+											</div>
+											<ul>
+												<li>全部</li>
+												<li>地税</li>
+												<li>国税</li>
+												<li>审计</li>
+											</ul>
+											<div class="selop_f">
+
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="s_block2 s_toggle">
+									<span>专&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;业&nbsp;:&nbsp;</span>
+									<div class="selblock">
+										<div class="selon">
+											请选择
+										</div>
+										<div class="selop">
+											<div class="selop_h">
+
+											</div>
+											<ul>
+												<li>全部</li>
+												<li>地税</li>
+												<li>国税</li>
+												<li>审计</li>
+											</ul>
+											<div class="selop_f">
+
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="s_block2 s_toggle">
+									<span>工作年限&nbsp;:&nbsp;</span>
+									<div class="selblock">
+										<div class="selon">
+											请选择
+										</div>
+										<div class="selop">
+											<div class="selop_h">
+
+											</div>
+											<ul>
+												<li>全部</li>
+												<li>地税</li>
+												<li>国税</li>
+												<li>审计</li>
+											</ul>
+											<div class="selop_f">
+
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="slidedown">
+								<div class="sldlogo"></div>
+							</div>
+						</div>
+					</div>
+					<div class="tableblock">
+						<div class="sb_bg1">
+
+						</div>
+						<div class="sb_bg2">
+
+						</div>
+						<div class="sb_bg4">
+
+						</div>
+						<div class="tb_content">
+							<div class="checkmenu">
+								<div class="cm_logo">
+
+								</div>
+							</div>
+							<div class="cm_list">
+								<div class="cl_wrap">
+									<div class="tabcol">
+										<div class="mycheck">
+											<input type="checkbox" id="checkbox0">
+											<label for="checkbox0"></label>
+										</div>
+										<div class="cbox_txt">
+											所在地
+										</div>
+									</div>
+									<div class="tabcol">
+										<div class="mycheck">
+											<input type="checkbox" id="checkbox2">
+											<label for="checkbox2"></label>
+										</div>
+										<div class="cbox_txt">
+											婚姻状况
+										</div>
+									</div>
+									<div class="tabcol">
+										<div class="mycheck">
+											<input type="checkbox" id="checkbox3">
+											<label for="checkbox3"></label>
+										</div>
+										<div class="cbox_txt">
+											首次参加工作时间
+										</div>
+									</div>
+									<div class="tabcol">
+										<div class="mycheck">
+											<input type="checkbox" id="checkbox4">
+											<label for="checkbox4"></label>
+										</div>
+										<div class="cbox_txt">
+											直属上级领导
+										</div>
+									</div>
+									<div class="tabcol">
+										<div class="mycheck">
+											<input type="checkbox" id="checkbox5">
+											<label for="checkbox5"></label>
+										</div>
+										<div class="cbox_txt">
+											最近工作经历
+										</div>
+									</div>
+
+
+								</div>
+							</div>
+							<div class="tb_list">
+
+
+								<table id="team_table" class="mtable" border="0" cellspacing="0" cellpadding="0">
+									<thead>
+										<tr>
+											<th class="tbnum">序号</th>
+											<th>姓名</th>
+											<th>年龄</th>
+											<th>劳动关系所在地</th>
+											<th>部门</th>
+											<th>职位</th>
+											<th>岗位标签</th>
+											<th>技能标签</th>
+											<th>行业标签</th>
+											<th>从业年限</th>
+											<th>最高学历</th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr>
+											<td class="tbnum">1</td>
+											<td>张三</td>
+											<td>33</td>
+											<td>北京</td>
+											<td>财务部</td>
+											<td>经理</td>
+											<td>-</td>
+											<td>-</td>
+											<td>-</td>
+											<td>10年</td>
+											<td>本科</td>
+										</tr>
+										<tr>
+											<td class="tbnum">1</td>
+											<td>张三</td>
+											<td>33</td>
+											<td>北京</td>
+											<td>财务部</td>
+											<td>经理</td>
+											<td>-</td>
+											<td>-</td>
+											<td>-</td>
+											<td>10年</td>
+											<td>本科</td>
+										</tr>
+										<tr>
+											<td class="tbnum">1</td>
+
+											<td>张三</td>
+											<td>33</td>
+											<td>北京</td>
+											<td>财务部</td>
+											<td>经理</td>
+											<td>-</td>
+											<td>-</td>
+											<td>-</td>
+											<td>10年</td>
+											<td>本科</td>
+										</tr>
+										<tr>
+											<td class="tbnum">1</td>
+											<td>张三</td>
+											<td>33</td>
+											<td>北京</td>
+											<td>财务部</td>
+											<td>经理</td>
+											<td>-</td>
+											<td>-</td>
+											<td>-</td>
+											<td>10年</td>
+											<td>本科</td>
+										</tr>
+										<tr>
+											<td class="tbnum">1</td>
+											<td>张三</td>
+											<td>33</td>
+											<td>北京</td>
+											<td>财务部</td>
+											<td>经理</td>
+											<td>-</td>
+											<td>-</td>
+											<td>-</td>
+											<td>10年</td>
+											<td>本科</td>
+										</tr>
+										<tr>
+											<td class="tbnum">1</td>
+											<td>张三</td>
+											<td>33</td>
+											<td>北京</td>
+											<td>财务部</td>
+											<td>经理</td>
+											<td>-</td>
+											<td>-</td>
+											<td>-</td>
+											<td>10年</td>
+											<td>本科</td>
+										</tr>
+										<tr>
+											<td class="tbnum">1</td>
+											<td>张三</td>
+											<td>33</td>
+											<td>北京</td>
+											<td>财务部</td>
+											<td>经理</td>
+											<td>-</td>
+											<td>-</td>
+											<td>-</td>
+											<td>10年</td>
+											<td>本科</td>
+										</tr>
+										<tr>
+											<td class="tbnum">1</td>
+											<td>张三</td>
+											<td>33</td>
+											<td>北京</td>
+											<td>财务部</td>
+											<td>经理</td>
+											<td>-</td>
+											<td>-</td>
+											<td>-</td>
+											<td>10年</td>
+											<td>本科</td>
+										</tr>
+										<tr>
+											<td class="tbnum">1</td>
+											<td>张三</td>
+											<td>33</td>
+											<td>北京</td>
+											<td>财务部</td>
+											<td>经理</td>
+											<td>-</td>
+											<td>-</td>
+											<td>-</td>
+											<td>10年</td>
+											<td>本科</td>
+										</tr>
+										<tr>
+											<td class="tbnum">1</td>
+											<td>张三</td>
+											<td>33</td>
+											<td>北京</td>
+											<td>财务部</td>
+											<td>经理</td>
+											<td>-</td>
+											<td>-</td>
+											<td>-</td>
+											<td>10年</td>
+											<td>本科</td>
+										</tr>
+										<tr>
+											<td class="tbnum">1</td>
+											<td>张三</td>
+											<td>33</td>
+											<td>北京</td>
+											<td>财务部</td>
+											<td>经理</td>
+											<td>-</td>
+											<td>-</td>
+											<td>-</td>
+											<td>10年</td>
+											<td>本科</td>
+										</tr>
+										<tr>
+											<td class="tbnum">1</td>
+											<td>张三</td>
+											<td>33</td>
+											<td>北京</td>
+											<td>财务部</td>
+											<td>经理</td>
+											<td>-</td>
+											<td>-</td>
+											<td>-</td>
+											<td>10年</td>
+											<td>本科</td>
+										</tr>
+										<tr>
+											<td class="tbnum">1</td>
+											<td>张三</td>
+											<td>33</td>
+											<td>北京</td>
+											<td>财务部</td>
+											<td>经理</td>
+											<td>-</td>
+											<td>-</td>
+											<td>-</td>
+											<td>10年</td>
+											<td>本科</td>
+										</tr>
+										<tr>
+											<td class="tbnum">1</td>
+											<td>张三</td>
+											<td>33</td>
+											<td>北京</td>
+											<td>财务部</td>
+											<td>经理</td>
+											<td>-</td>
+											<td>-</td>
+											<td>-</td>
+											<td>10年</td>
+											<td>本科</td>
+										</tr>
+										<tr>
+											<td class="tbnum">1</td>
+											<td>张三</td>
+											<td>33</td>
+											<td>北京</td>
+											<td>财务部</td>
+											<td>经理</td>
+											<td>-</td>
+											<td>-</td>
+											<td>-</td>
+											<td>10年</td>
+											<td>本科</td>
+										</tr>
+									</tbody>
+
+								</table>
+
+							</div>
+							<div class="tb_page">
+								<button class="page_go">
+										GO
+									</button>
+								<div class="page_ip">
+									<span>前往</span>
+									<input type="text" id="" value="1" />
+									<span>页</span>
+								</div>
+								<div class="page_turn">
+									<button class="p_pre lock">上页</button>
+									<button class="p_nxt">下页</button>
+								</div>
+								<div class="page_num">
+									<span id="">1-10</span>条/共<span id="">100</span>条
+								</div>
+								<div class="page_row">
+									<span id="">
+											10
+										</span>
+									<ul>
+										<li>10</li>
+										<li>20</li>
+										<li>30</li>
+										<li>40</li>
+										<li>50</li>
+									</ul>
+								</div>
+								<div class="page_txt">
+									显示行数
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="tabletab" id="project">
+					<div class="searchblock">
+						<div class="sb_bg1">
+
+						</div>
+						<div class="sb_bg2">
+
+						</div>
+						<div class="sb_bg3">
+
+						</div>
+						<div class="sb_content">
+							<div class="s_title">
+								<div class="s_logo team_icon">
+									<i class="logoicon project_icon">
+											
+										</i>
+									<h2>
+										项目
+									</h2>
+
+								</div>
+								<div class="s_btn">
+									<button class="btn_reset">重置</button>
+									<button class="btn_search ">检索</button>
+								</div>
+							</div>
+							<div class="s_content">
+								<div class="s_block1">
+									<span>搜&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;索&nbsp;:&nbsp;</span>
+									<div class="srchblock">
+										<input type="text" id="" placeholder="请输入姓名、专业、部门、项目经验等关键词进行搜索……" />
+										<div class="searchbtn">
+
+										</div>
+									</div>
+								</div>
+								<div class="s_block2">
+									<span>项目类型&nbsp;:&nbsp;</span>
+									<div class="selblock" id="project_type">
+										<div class="selon">
+											请选择
+										</div>
+										<div class="selop">
+											<div class="selop_h">
+
+											</div>
+											<ul>
+												
+											</ul>
+											<div class="selop_f">
+
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="s_block2">
+									<span>实施部门&nbsp;:&nbsp;</span>
+									<div class="selblock" id="implementation_department">
+										<div class="selon">
+											请选择
+										</div>
+										<div class="selop">
+											<div class="selop_h">
+
+											</div>
+											<ul>
+												
+											</ul>
+											<div class="selop_f">
+
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="s_block2">
+									<span>项目状态&nbsp;:&nbsp;</span>
+									<div class="selblock" id="item_status">
+										<div class="selon">
+											请选择
+										</div>
+										<div class="selop">
+											<div class="selop_h">
+
+											</div>
+											<ul>
+												
+											</ul>
+											<div class="selop_f">
+
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="s_block2 s_toggle s_time">
+									<span>时&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;间&nbsp;:&nbsp;</span>
+									<div class="selblock selb_time" id="timesel">
+										<div class="selon">
+											请选择
+										</div>
+										<div class="selop">
+											<div class="selop_h">
+
+											</div>
+											<ul>
+												
+											</ul>
+											<div class="selop_f">
+
+											</div>
+										</div>
+									</div>
+									<input class="selblock report_btn1 fr" placeholder="2017-07-01" onclick="laydate()">
+									<span>至</span>
+									<input class="selblock report_btn1 fr" placeholder="2017-07-10" id="demo">
+								</div>
+
+							</div>
+							<div class="slidedown">
+								<div class="sldlogo"></div>
+							</div>
+						</div>
+					</div>
+					<div class="tableblock">
+						<div class="sb_bg1">
+
+						</div>
+						<div class="sb_bg2">
+
+						</div>
+						<div class="sb_bg4">
+
+						</div>
+						<div class="tb_content">
+							<div class="checkmenu">
+								<div class="cm_logo">
+
+								</div>
+							</div>
+							<div class="cm_list">
+								<div class="cl_wrap">
+									<div class="tabcol">
+										<div class="mycheck">
+											<input type="checkbox" id="pro_checkbox0">
+											<label for="pro_checkbox0"></label>
+										</div>
+										<div class="cbox_txt">
+											项目类型
+										</div>
+									</div>
+									<div class="tabcol">
+										<div class="mycheck">
+											<input type="checkbox" id="pro_checkbox2">
+											<label for="pro_checkbox2"></label>
+										</div>
+										<div class="cbox_txt">
+											项目编号
+										</div>
+									</div>
+									<div class="tabcol">
+										<div class="mycheck">
+											<input type="checkbox" id="pro_checkbox3">
+											<label for="pro_checkbox3"></label>
+										</div>
+										<div class="cbox_txt">
+											项目名称
+										</div>
+									</div>
+									<div class="tabcol">
+										<div class="mycheck">
+											<input type="checkbox" id="pro_checkbox4">
+											<label for="pro_checkbox4"></label>
+										</div>
+										<div class="cbox_txt">
+											实施部门
+										</div>
+									</div>
+									<div class="tabcol">
+										<div class="mycheck">
+											<input type="checkbox" id="pro_checkbox5">
+											<label for="pro_checkbox5"></label>
+										</div>
+										<div class="cbox_txt">
+											商务
+										</div>
+									</div>
+									<div class="tabcol">
+										<div class="mycheck">
+											<input type="checkbox" id="pro_checkbox6">
+											<label for="pro_checkbox6"></label>
+										</div>
+										<div class="cbox_txt">
+											总负责人
+										</div>
+									</div>
+									<div class="tabcol">
+										<div class="mycheck">
+											<input type="checkbox" id="pro_checkbox7">
+											<label for="pro_checkbox7"></label>
+										</div>
+										<div class="cbox_txt">
+											项目经理
+										</div>
+									</div>
+									<div class="tabcol">
+										<div class="mycheck">
+											<input type="checkbox" id="pro_checkbox8">
+											<label for="pro_checkbox8"></label>
+										</div>
+										<div class="cbox_txt">
+											项目整体计划开始时间
+										</div>
+									</div>
+									<div class="tabcol">
+										<div class="mycheck">
+											<input type="checkbox" id="pro_checkbox9">
+											<label for="pro_checkbox9"></label>
+										</div>
+										<div class="cbox_txt">
+											项目整体计划结束时间
+										</div>
+									</div>
+									<div class="tabcol">
+										<div class="mycheck">
+											<input type="checkbox" id="pro_checkbox10">
+											<label for="pro_checkbox10"></label>
+										</div>
+										<div class="cbox_txt">
+											项目整体进度
+										</div>
+									</div>
+									<div class="tabcol">
+										<div class="mycheck">
+											<input type="checkbox" id="pro_checkbox11">
+											<label for="pro_checkbox11"></label>
+										</div>
+										<div class="cbox_txt">
+											项目状态
+										</div>
+									</div>
+									<div class="tabcol">
+										<div class="mycheck">
+											<input type="checkbox" id="pro_checkbox12">
+											<label for="pro_checkbox12"></label>
+										</div>
+										<div class="cbox_txt">
+											项目里程碑
+										</div>
+									</div>
+									<div class="tabcol">
+										<div class="mycheck">
+											<input type="checkbox" id="pro_checkbox13">
+											<label for="pro_checkbox13"></label>
+										</div>
+										<div class="cbox_txt">
+											项目计划开始时间
+										</div>
+									</div>
+									<div class="tabcol">
+										<div class="mycheck">
+											<input type="checkbox" id="pro_checkbox14">
+											<label for="pro_checkbox14"></label>
+										</div>
+										<div class="cbox_txt">
+											项目计划结束时间
+										</div>
+									</div>
+									<div class="tabcol">
+										<div class="mycheck">
+											<input type="checkbox" id="pro_checkbox15">
+											<label for="pro_checkbox15"></label>
+										</div>
+										<div class="cbox_txt">
+											项目实际开始时间
+										</div>
+									</div>
+									<div class="tabcol">
+										<div class="mycheck">
+											<input type="checkbox" id="pro_checkbox16">
+											<label for="pro_checkbox16"></label>
+										</div>
+										<div class="cbox_txt">
+											项目实际结束时间
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="tb_list">
+
+
+								<table id="team_table" class="mtable" border="0" cellspacing="0" cellpadding="0">
+									<thead>
+										<tr>
+											<th class="tbnum">序号</th>
+											<th>项目类别</th>
+											<th>项目编号</th>
+											<th>项目名称</th>
+											<th>实施部门</th>
+											<th>商务</th>
+											<th>总负责人</th>
+											<th>项目经理</th>
+											<th>项目整体计划</th>
+											<th>项目整体计划</th>
+											<th>项目状态</th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr>
+											<td class="tbnum">1</td>
+											<td>产品项目</td>
+											<td>CP2017070</td>
+											<td class="project_name">培训演示项目</td>
+											<td>- -</td>
+											<td class="project_business">张三</td>
+											<td>- -</td>
+											<td>- -</td>
+											<td>2017-01-01</td>
+											<td>2017-08-08</td>
+											<td>工作中</td>
+										</tr>
+										<tr>
+											<td class="tbnum">2</td>
+											<td>产品项目</td>
+											<td>CP2017070</td>
+											<td class="project_name">培训演示项目</td>
+											<td>- -</td>
+											<td class="project_business">张三</td>
+											<td>- -</td>
+											<td>- -</td>
+											<td>2017-01-01</td>
+											<td>2017-08-08</td>
+											<td>工作中</td>
+										</tr>
+										<tr>
+											<td class="tbnum">3</td>
+											<td>产品项目</td>
+											<td>CP2017070</td>
+											<td class="project_name">培训演示项目</td>
+											<td>- -</td>
+											<td class="project_business">张三</td>
+											<td>- -</td>
+											<td>- -</td>
+											<td>2017-01-01</td>
+											<td>2017-08-08</td>
+											<td>工作中</td>
+										</tr>
+										<tr>
+											<td class="tbnum">4</td>
+											<td>产品项目</td>
+											<td>CP2017070</td>
+											<td class="project_name">培训演示项目</td>
+											<td>- -</td>
+											<td class="project_business">张三</td>
+											<td>- -</td>
+											<td>- -</td>
+											<td>2017-01-01</td>
+											<td>2017-08-08</td>
+											<td>工作中</td>
+										</tr>
+										<tr>
+											<td class="tbnum">5</td>
+											<td>产品项目</td>
+											<td>CP2017070</td>
+											<td class="project_name">培训演示项目</td>
+											<td>- -</td>
+											<td class="project_business">张三</td>
+											<td>- -</td>
+											<td>- -</td>
+											<td>2017-01-01</td>
+											<td>2017-08-08</td>
+											<td>工作中</td>
+										</tr>
+										<tr>
+											<td class="tbnum">6</td>
+											<td>产品项目</td>
+											<td>CP2017070</td>
+											<td class="project_name">培训演示项目</td>
+											<td>- -</td>
+											<td class="project_business">张三</td>
+											<td>- -</td>
+											<td>- -</td>
+											<td>2017-01-01</td>
+											<td>2017-08-08</td>
+											<td>工作中</td>
+										</tr>
+										<tr>
+											<td class="tbnum">7</td>
+											<td>产品项目</td>
+											<td>CP2017070</td>
+											<td class="project_name">培训演示项目</td>
+											<td>- -</td>
+											<td class="project_business">张三</td>
+											<td>- -</td>
+											<td>- -</td>
+											<td>2017-01-01</td>
+											<td>2017-08-08</td>
+											<td>工作中</td>
+										</tr>
+										<tr>
+											<td class="tbnum">8</td>
+											<td>产品项目</td>
+											<td>CP2017070</td>
+											<td class="project_name">培训演示项目</td>
+											<td>- -</td>
+											<td class="project_business">张三</td>
+											<td>- -</td>
+											<td>- -</td>
+											<td>2017-01-01</td>
+											<td>2017-08-08</td>
+											<td>工作中</td>
+										</tr>
+										<tr>
+											<td class="tbnum">9</td>
+											<td>产品项目</td>
+											<td>CP2017070</td>
+											<td class="project_name">培训演示项目</td>
+											<td>- -</td>
+											<td class="project_business">张三</td>
+											<td>- -</td>
+											<td>- -</td>
+											<td>2017-01-01</td>
+											<td>2017-08-08</td>
+											<td>工作中</td>
+										</tr>
+										<tr>
+											<td class="tbnum">10</td>
+											<td>产品项目</td>
+											<td>CP2017070</td>
+											<td class="project_name">培训演示项目</td>
+											<td>- -</td>
+											<td class="project_business">张三</td>
+											<td>- -</td>
+											<td>- -</td>
+											<td>2017-01-01</td>
+											<td>2017-08-08</td>
+											<td>工作中</td>
+										</tr>
+										<tr>
+											<td class="tbnum">11</td>
+											<td>产品项目</td>
+											<td>CP2017070</td>
+											<td class="project_name">培训演示项目</td>
+											<td>- -</td>
+											<td class="project_business">张三</td>
+											<td>- -</td>
+											<td>- -</td>
+											<td>2017-01-01</td>
+											<td>2017-08-08</td>
+											<td>工作中</td>
+										</tr>
+										<tr>
+											<td class="tbnum">12</td>
+											<td>产品项目</td>
+											<td>CP2017070</td>
+											<td class="project_name">培训演示项目</td>
+											<td>- -</td>
+											<td class="project_business">张三</td>
+											<td>- -</td>
+											<td>- -</td>
+											<td>2017-01-01</td>
+											<td>2017-08-08</td>
+											<td>工作中</td>
+										</tr>
+										<tr>
+											<td class="tbnum">13</td>
+											<td>产品项目</td>
+											<td>CP2017070</td>
+											<td class="project_name">培训演示项目</td>
+											<td>- -</td>
+											<td class="project_business">张三</td>
+											<td>- -</td>
+											<td>- -</td>
+											<td>2017-01-01</td>
+											<td>2017-08-08</td>
+											<td>工作中</td>
+										</tr>
+										<tr>
+											<td class="tbnum">14</td>
+											<td>产品项目</td>
+											<td>CP2017070</td>
+											<td class="project_name">培训演示项目</td>
+											<td>- -</td>
+											<td class="project_business">张三</td>
+											<td>- -</td>
+											<td>- -</td>
+											<td>2017-01-01</td>
+											<td>2017-08-08</td>
+											<td>工作中</td>
+										</tr>
+										<tr>
+											<td class="tbnum">15</td>
+											<td>产品项目</td>
+											<td>CP2017070</td>
+											<td class="project_name">培训演示项目</td>
+											<td>- -</td>
+											<td class="project_business">张三</td>
+											<td>- -</td>
+											<td>- -</td>
+											<td>2017-01-01</td>
+											<td>2017-08-08</td>
+											<td>工作中</td>
+										</tr>
+									</tbody>
+
+								</table>
+
+							</div>
+							<div class="tb_page">
+								<button class="page_go">
+									GO
+								</button>
+								<div class="page_ip">
+									<span>前往</span>
+									<input type="text" class="rownum" value="1" onkeyup="if(this.value.length==1){this.value=this.value.replace(/[^1-9]/g,'')}else{this.value=this.value.replace(/\D/g,'')}" onafterpaste="if(this.value.length==1){this.value=this.value.replace(/[^1-9]/g,'0')}else{this.value=this.value.replace(/\D/g,'')}"/>
+									<span>页</span>
+								</div>
+								<div class="page_turn">
+									<button class="p_pre lock">上页</button>
+									<button class="p_nxt">下页</button>
+								</div>
+								<div class="page_num">
+									<span class="datanum"></span>条/共<span class="datatot"></span>条
+								</div>
+								<div class="page_row">
+									<span id="">
+										20
+									</span>
+									<ul>
+										<li>20</li>
+										<li>30</li>
+										<li>40</li>
+										<li>50</li>
+									</ul>
+								</div>
+								<div class="page_txt">
+									显示行数
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="tabletab" id="business">
+					<div class="searchblock">
+						<div class="sb_bg1">
+
+						</div>
+						<div class="sb_bg2">
+
+						</div>
+						<div class="sb_bg3">
+
+						</div>
+						<div class="sb_content">
+							<div class="s_title">
+								<div class="s_logo team_icon">
+									<i class="logoicon">
+											
+										</i>
+									<h2>
+										商机
+									</h2>
+
+								</div>
+								<div class="s_btn">
+									<button class="btn_reset">重置</button>
+									<button class="btn_search ">检索</button>
+								</div>
+							</div>
+							<div class="s_content">
+								<div class="s_block1">
+									<span>搜&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;索&nbsp;:&nbsp;</span>
+									<div class="srchblock">
+										<input type="text" id="" placeholder="请输入姓名、专业、部门、项目经验等关键词进行搜索……" />
+										<div class="searchbtn">
+
+										</div>
+									</div>
+								</div>
+								<div class="s_block2">
+									<span>行业标签&nbsp;:&nbsp;</span>
+									<div class="selblock">
+										<div class="selon">
+											请选择
+										</div>
+										<div class="selop">
+											<div class="selop_h">
+
+											</div>
+											<ul>
+												<li>全部</li>
+												<li>地税</li>
+												<li>国税</li>
+												<li>审计</li>
+											</ul>
+											<div class="selop_f">
+
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="s_block2">
+									<span>职&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;位&nbsp;:&nbsp;</span>
+									<div class="selblock">
+										<div class="selon">
+											请选择
+										</div>
+										<div class="selop">
+											<div class="selop_h">
+
+											</div>
+											<ul>
+												<li>全部</li>
+												<li>地税</li>
+												<li>国税</li>
+												<li>审计</li>
+											</ul>
+											<div class="selop_f">
+
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="s_block2">
+									<span>岗位标签&nbsp;:&nbsp;</span>
+									<div class="selblock">
+										<div class="selon">
+											请选择
+										</div>
+										<div class="selop">
+											<div class="selop_h">
+
+											</div>
+											<ul>
+												<li>全部</li>
+												<li>地税</li>
+												<li>国税</li>
+												<li>审计</li>
+											</ul>
+											<div class="selop_f">
+
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="s_block2 s_toggle">
+									<span>技能标签&nbsp;:&nbsp;</span>
+									<div class="selblock">
+										<div class="selon">
+											请选择
+										</div>
+										<div class="selop">
+											<div class="selop_h">
+
+											</div>
+											<ul>
+												<li>全部</li>
+												<li>地税</li>
+												<li>国税</li>
+												<li>审计</li>
+											</ul>
+											<div class="selop_f">
+
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="s_block2 s_toggle">
+									<span>学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;历&nbsp;:&nbsp;</span>
+									<div class="selblock">
+										<div class="selon">
+											请选择
+										</div>
+										<div class="selop">
+											<div class="selop_h">
+
+											</div>
+											<ul>
+												<li>全部</li>
+												<li>地税</li>
+												<li>国税</li>
+												<li>审计</li>
+											</ul>
+											<div class="selop_f">
+
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="s_block2 s_toggle">
+									<span>专&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;业&nbsp;:&nbsp;</span>
+									<div class="selblock">
+										<div class="selon">
+											请选择
+										</div>
+										<div class="selop">
+											<div class="selop_h">
+
+											</div>
+											<ul>
+												<li>全部</li>
+												<li>地税</li>
+												<li>国税</li>
+												<li>审计</li>
+											</ul>
+											<div class="selop_f">
+
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="s_block2 s_toggle">
+									<span>工作年限&nbsp;:&nbsp;</span>
+									<div class="selblock">
+										<div class="selon">
+											请选择
+										</div>
+										<div class="selop">
+											<div class="selop_h">
+
+											</div>
+											<ul>
+												<li>全部</li>
+												<li>地税</li>
+												<li>国税</li>
+												<li>审计</li>
+											</ul>
+											<div class="selop_f">
+
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="slidedown">
+								<div class="sldlogo"></div>
+							</div>
+						</div>
+					</div>
+					<div class="tableblock">
+						<div class="sb_bg1">
+
+						</div>
+						<div class="sb_bg2">
+
+						</div>
+						<div class="sb_bg4">
+
+						</div>
+						<div class="tb_content">
+							<div class="checkmenu">
+								<div class="cm_logo">
+
+								</div>
+							</div>
+							<div class="cm_list">
+								<div class="cl_wrap">
+									<div class="tabcol">
+										<div class="mycheck">
+											<input type="checkbox" id="checkbox0">
+											<label for="checkbox0"></label>
+										</div>
+										<div class="cbox_txt">
+											所在地
+										</div>
+									</div>
+									<div class="tabcol">
+										<div class="mycheck">
+											<input type="checkbox" id="checkbox2">
+											<label for="checkbox2"></label>
+										</div>
+										<div class="cbox_txt">
+											婚姻状况
+										</div>
+									</div>
+									<div class="tabcol">
+										<div class="mycheck">
+											<input type="checkbox" id="checkbox3">
+											<label for="checkbox3"></label>
+										</div>
+										<div class="cbox_txt">
+											首次参加工作时间
+										</div>
+									</div>
+									<div class="tabcol">
+										<div class="mycheck">
+											<input type="checkbox" id="checkbox4">
+											<label for="checkbox4"></label>
+										</div>
+										<div class="cbox_txt">
+											直属上级领导
+										</div>
+									</div>
+									<div class="tabcol">
+										<div class="mycheck">
+											<input type="checkbox" id="checkbox5">
+											<label for="checkbox5"></label>
+										</div>
+										<div class="cbox_txt">
+											最近工作经历
+										</div>
+									</div>
+
+
+								</div>
+							</div>
+							<div class="tb_list">
+
+
+								<table id="team_table" class="mtable" border="0" cellspacing="0" cellpadding="0">
+									<thead>
+										<tr>
+											<th class="tbnum">序号</th>
+											<th>姓名</th>
+											<th>年龄</th>
+											<th>劳动关系所在地</th>
+											<th>部门</th>
+											<th>职位</th>
+											<th>岗位标签</th>
+											<th>技能标签</th>
+											<th>行业标签</th>
+											<th>从业年限</th>
+											<th>最高学历</th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr>
+											<td class="tbnum">1</td>
+											<td>张三</td>
+											<td>33</td>
+											<td>北京</td>
+											<td>财务部</td>
+											<td>经理</td>
+											<td>-</td>
+											<td>-</td>
+											<td>-</td>
+											<td>10年</td>
+											<td>本科</td>
+										</tr>
+										<tr>
+											<td class="tbnum">1</td>
+											<td>张三</td>
+											<td>33</td>
+											<td>北京</td>
+											<td>财务部</td>
+											<td>经理</td>
+											<td>-</td>
+											<td>-</td>
+											<td>-</td>
+											<td>10年</td>
+											<td>本科</td>
+										</tr>
+										<tr>
+											<td class="tbnum">1</td>
+
+											<td>张三</td>
+											<td>33</td>
+											<td>北京</td>
+											<td>财务部</td>
+											<td>经理</td>
+											<td>-</td>
+											<td>-</td>
+											<td>-</td>
+											<td>10年</td>
+											<td>本科</td>
+										</tr>
+										<tr>
+											<td class="tbnum">1</td>
+											<td>张三</td>
+											<td>33</td>
+											<td>北京</td>
+											<td>财务部</td>
+											<td>经理</td>
+											<td>-</td>
+											<td>-</td>
+											<td>-</td>
+											<td>10年</td>
+											<td>本科</td>
+										</tr>
+										<tr>
+											<td class="tbnum">1</td>
+											<td>张三</td>
+											<td>33</td>
+											<td>北京</td>
+											<td>财务部</td>
+											<td>经理</td>
+											<td>-</td>
+											<td>-</td>
+											<td>-</td>
+											<td>10年</td>
+											<td>本科</td>
+										</tr>
+										<tr>
+											<td class="tbnum">1</td>
+											<td>张三</td>
+											<td>33</td>
+											<td>北京</td>
+											<td>财务部</td>
+											<td>经理</td>
+											<td>-</td>
+											<td>-</td>
+											<td>-</td>
+											<td>10年</td>
+											<td>本科</td>
+										</tr>
+										<tr>
+											<td class="tbnum">1</td>
+											<td>张三</td>
+											<td>33</td>
+											<td>北京</td>
+											<td>财务部</td>
+											<td>经理</td>
+											<td>-</td>
+											<td>-</td>
+											<td>-</td>
+											<td>10年</td>
+											<td>本科</td>
+										</tr>
+										<tr>
+											<td class="tbnum">1</td>
+											<td>张三</td>
+											<td>33</td>
+											<td>北京</td>
+											<td>财务部</td>
+											<td>经理</td>
+											<td>-</td>
+											<td>-</td>
+											<td>-</td>
+											<td>10年</td>
+											<td>本科</td>
+										</tr>
+										<tr>
+											<td class="tbnum">1</td>
+											<td>张三</td>
+											<td>33</td>
+											<td>北京</td>
+											<td>财务部</td>
+											<td>经理</td>
+											<td>-</td>
+											<td>-</td>
+											<td>-</td>
+											<td>10年</td>
+											<td>本科</td>
+										</tr>
+										<tr>
+											<td class="tbnum">1</td>
+											<td>张三</td>
+											<td>33</td>
+											<td>北京</td>
+											<td>财务部</td>
+											<td>经理</td>
+											<td>-</td>
+											<td>-</td>
+											<td>-</td>
+											<td>10年</td>
+											<td>本科</td>
+										</tr>
+										<tr>
+											<td class="tbnum">1</td>
+											<td>张三</td>
+											<td>33</td>
+											<td>北京</td>
+											<td>财务部</td>
+											<td>经理</td>
+											<td>-</td>
+											<td>-</td>
+											<td>-</td>
+											<td>10年</td>
+											<td>本科</td>
+										</tr>
+										<tr>
+											<td class="tbnum">1</td>
+											<td>张三</td>
+											<td>33</td>
+											<td>北京</td>
+											<td>财务部</td>
+											<td>经理</td>
+											<td>-</td>
+											<td>-</td>
+											<td>-</td>
+											<td>10年</td>
+											<td>本科</td>
+										</tr>
+										<tr>
+											<td class="tbnum">1</td>
+											<td>张三</td>
+											<td>33</td>
+											<td>北京</td>
+											<td>财务部</td>
+											<td>经理</td>
+											<td>-</td>
+											<td>-</td>
+											<td>-</td>
+											<td>10年</td>
+											<td>本科</td>
+										</tr>
+										<tr>
+											<td class="tbnum">1</td>
+											<td>张三</td>
+											<td>33</td>
+											<td>北京</td>
+											<td>财务部</td>
+											<td>经理</td>
+											<td>-</td>
+											<td>-</td>
+											<td>-</td>
+											<td>10年</td>
+											<td>本科</td>
+										</tr>
+										<tr>
+											<td class="tbnum">1</td>
+											<td>张三</td>
+											<td>33</td>
+											<td>北京</td>
+											<td>财务部</td>
+											<td>经理</td>
+											<td>-</td>
+											<td>-</td>
+											<td>-</td>
+											<td>10年</td>
+											<td>本科</td>
+										</tr>
+									</tbody>
+
+								</table>
+
+							</div>
+							<div class="tb_page">
+								<button class="page_go">
+										GO
+									</button>
+								<div class="page_ip">
+									<span>前往</span>
+									<input type="text" id="" value="1" />
+									<span>页</span>
+								</div>
+								<div class="page_turn">
+									<button class="p_pre lock">上页</button>
+									<button class="p_nxt">下页</button>
+								</div>
+								<div class="page_num">
+									<span id="">1-10</span>条/共<span id="">100</span>条
+								</div>
+								<div class="page_row">
+									<span id="">
+											10
+										</span>
+									<ul>
+										<li>10</li>
+										<li>20</li>
+										<li>30</li>
+										<li>40</li>
+										<li>50</li>
+									</ul>
+								</div>
+								<div class="page_txt">
+									显示行数
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+		</div>
+		<div class="footer">
+
+		</div>
+	</div>
+	<!--名称弹出层-->
+	<div class="layer">
+		<div class="pop-box pop-content">
+			<div class="pop-close"></div>
+			<div class="pop-title">
+				<div class="pub-btn summarize fl">项目概述</div>
+				<div class="pub-btn resources fl">项目资源</div>
+				<div class="pub-btn construction fl">项目任务结构</div>
+			</div>
+			<div class="pre-summarize">
+				<div class="popover pop-left fl">
+					<div class="basic-message">基本信息</div>
+					<table width="100%" border="0" cellspacing="0" cellpadding="0" class="table-fixed">
+						<tbody>
+							<tr>
+								<td class="tab-header">项目编码</td>
+								<td>XM2017060001</td>
+								<td></td>
+								<td></td>
+							</tr>
+							<tr>
+								<td class="tab-header">项目名称</td>
+								<td>XXXXX项目</td>
+								<td></td>
+								<td></td>
+							</tr>
+							<tr>
+								<td class="tab-header">项目简称</td>
+								<td></td>
+								<td></td>
+								<td></td>
+							</tr>
+							<tr>
+								<td class="tab-header">所属公司</td>
+								<td></td>
+								<td></td>
+								<td></td>
+							</tr>
+							<tr>
+								<td class="tab-header">项目模式</td>
+								<td></td>
+								<td class="tab-header">项目类别</td>
+								<td></td>
+							</tr>
+							<tr>
+								<td class="tab-header">项目一级部门主管</td>
+								<td></td>
+								<td class="tab-header">是否需要测试</td>
+								<td></td>
+							</tr>
+							<tr>
+								<td class="tab-header">执行部门</td>
+								<td></td>
+								<td class="tab-header">项目总负责人</td>
+								<td></td>
+							</tr>
+							<tr>
+								<td class="tab-header">项目经理</td>
+								<td></td>
+								<td class="tab-header">项目助理</td>
+								<td></td>
+							</tr>
+							<tr>
+								<td class="tab-header">项目助理2</td>
+								<td></td>
+								<td class="tab-header">项目助理3</td>
+								<td></td>
+							</tr>
+							<tr>
+								<td class="tab-header">销售</td>
+								<td></td>
+								<td class="tab-header">客户</td>
+								<td>任务单客户</td>
+							</tr>
+							<tr>
+								<td class="tab-header">项目状态</td>
+								<td></td>
+								<td class="tab-header">项目进度</td>
+								<td>80%</td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
+				<div class="popover pop-right fr">
+					<div class="basic-message">时间信息</div>
+					<table class="table-fixed data-news" width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tbody>
+							<tr>
+								<td class="tab-header">必须开始于</td>
+								<td>-</td>
+								<td class="tab-header">必须开始于</td>
+								<td>-</td>
+							</tr>
+							<tr>
+								<td class="tab-header">计划开始于</td>
+								<td>2017/01/01</td>
+								<td class="tab-header">计划开始于</td>
+								<td>2017/01/01</td>
+							</tr>
+							<tr>
+								<td class="tab-header">实际开始于</td>
+								<td>-</td>
+								<td class="tab-header">实际开始于</td>
+								<td>-</td>
+							</tr>
+						</tbody>
+					</table>
+					<div class="basic-message set-message">创建信息</div>
+					<table class="table-fixed data-news" width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tbody>
+							<tr>
+								<td class="tab-header">创建时间</td>
+								<td>2017/01/01<br>09:00</td>
+								<td class="tab-header">更新日期</td>
+								<td>2017/01/01<br>09:00</td>
+							</tr>
+							<tr>
+								<td class="tab-header">创建人</td>
+								<td>-</td>
+								<td></td>
+								<td></td>
+							</tr>
+							<tr>
+								<td class="tab-header">项目测试</td>
+								<td>-</td>
+								<td></td>
+								<td></td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
+			</div>
+			<div class="pre-resources">
+				<table class="tab-news" width="100%" border="0" cellspacing="0" cellpadding="0">
+					<thead>
+						<th width="20%">姓名</th>
+						<th width="20%">英文名</th>
+						<th width="20%">员工号</th>
+						<th width="20%">员工类型</th>
+						<th width="20%">禁用状态</th>
+					</thead>
+					<tbody>
+						<tr>
+							<td class="">XXX</td>
+							<td>XXX</td>
+							<td>XXX</td>
+							<td>XXX</td>
+							<td>XXX</td>
+						</tr>
+						<tr>
+							<td>XXX</td>
+							<td>XXX</td>
+							<td>XXX</td>
+							<td>XXX</td>
+							<td>XXX</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+			<div class="pre-construction">
+				<div class="basic-message mission">
+					<span class="fl">请选择任务：</span>
+					<div class="selblock selblock_task fl" id="select_task">
+						<div class="selon">
+							请选择
+						</div>
+						<div class="selop">
+							<div class="selop_h">
+
+							</div>
+							<ul>
+								
+							</ul>
+							<div class="selop_f">
+
+							</div>
+						</div>
+					</div>
+				</div>
+				<table class="tab-news tab-task" width="100%" border="0" cellspacing="0" cellpadding="0">
+					<thead>
+						<th width="10%">任务编号</th>
+						<th width="15%">任务名称</th>
+						<th width="15%">计划开始时间</th>
+						<th width="15%">计划完成时间</th>
+						<!--<th width="10%">工作日</th>-->
+						<th width="15%">负责人</th>
+						<th width="10%">任务状态</th>
+						<th width="10%">任务进度</th>
+						<th width="10%">任务类型</th>
+					</thead>
+					<tbody>
+						<tr>
+							<td>01</td>
+							<td>公司会议</td>
+							<td></td>
+							<td></td>
+							<td>- -</td>
+							<td>未开始</td>
+							<td>0.00%</td>
+							<td></td>
+						</tr>
+						<tr>
+							<td>01</td>
+							<td>公司会议</td>
+							<td></td>
+							<td></td>
+							<td>- -</td>
+							<td>未开始</td>
+							<td>0.00%</td>
+							<td></td>
+						</tr>
+						<tr>
+							<td>01</td>
+							<td>公司会议</td>
+							<td></td>
+							<td></td>
+							<td>- -</td>
+							<td>未开始</td>
+							<td>0.00%</td>
+							<td></td>
+						</tr>
+						<tr>
+							<td>01</td>
+							<td>公司会议</td>
+							<td></td>
+							<td></td>
+							<td>- -</td>
+							<td>未开始</td>
+							<td>0.00%</td>
+							<td></td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+		</div>
+	</div>
+	<!--商务弹出层-->
+	<div class="layer1">
+		<div class="pop-business pop-consult">
+			<div class="pop-close1"></div>
+			<div class="pop-title">
+				<div class="user-info">用户信息</div>
+			</div>
+			<div class="user-top cl">
+				<div class="user-btn employee fl">员工信息</div>
+				<div class="user-btn minute fl">详细信息</div>
+			</div>
+			<div class="employee-message">
+				<div class="staff-message cl">
+					<div class="staff-pic fl"></div>
+					<div class="staff-record fr">
+						<table class="table-fixed" width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tbody>
+								<tr>
+									<td class="tab-header">登录名</td>
+									<td>zs@jusfoun.com</td>
+									<td class="tab-header">员工工号</td>
+									<td>12345</td>
+								</tr>
+								<tr>
+									<td class="tab-header">姓名</td>
+									<td>张三</td>
+									<td class="tab-header">英文名</td>
+									<td>- -</td>
+								</tr>
+								<tr>
+									<td class="tab-header">姓名拼音</td>
+									<td>zhangsan</td>
+									<td class="tab-header">员工性别</td>
+									<td>男</td>
+								</tr>
+							</tbody>
+						</table>
+					</div>
+				</div>
+				<div class="contact-info">
+					<div class="user-info">联系方式</div>
+					<table class="table-fixed" width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tbody>
+							<tr>
+								<td class="tab-header">办公电话</td>
+								<td>XXX</td>
+								<td class="tab-header">移动电话</td>
+								<td></td>
+							</tr>
+							<tr>
+								<td class="tab-header">邮箱</td>
+								<td>XXX</td>
+								<td class="tab-header">家庭电话</td>
+								<td></td>
+							</tr>
+							<tr>
+								<td class="tab-header">IM</td>
+								<td></td>
+								<td class="tab-header">RTX</td>
+								<td></td>
+							</tr>
+							<tr>
+								<td class="tab-header">邮政编码</td>
+								<td></td>
+								<td class="tab-header">区域</td>
+								<td></td>
+							</tr>
+							<tr>
+								<td class="tab-header">家庭住址</td>
+								<td></td>
+								<td class="tab-header"></td>
+								<td></td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
+			</div>
+			<div class="minute-message">
+				<table class="table-fixed" width="100%" border="0" cellspacing="0" cellpadding="0">
+					<tbody>
+						<tr>
+							<td class="tab-header">员工类型</td>
+							<td>XXXXX</td>
+							<td class="tab-header">上级主管</td>
+							<td></td>
+						</tr>
+						<tr>
+							<td class="tab-header">岗位职务</td>
+							<td>XXXXX</td>
+							<td class="tab-header">专业职称</td>
+							<td></td>
+						</tr>
+						<tr>
+							<td class="tab-header">成本中心</td>
+							<td></td>
+							<td class="tab-header">成本费率组</td>
+							<td></td>
+						</tr>
+						<tr>
+							<td class="tab-header">所属公司</td>
+							<td></td>
+							<td class="tab-header"></td>
+							<td></td>
+						</tr>
+						<tr>
+							<td class="tab-header">民族</td>
+							<td></td>
+							<td class="tab-header">婚姻状况</td>
+							<td></td>
+						</tr>
+						<tr>
+							<td class="tab-header">证件类型</td>
+							<td></td>
+							<td class="tab-header">证件号码</td>
+							<td></td>
+						</tr>
+						<tr>
+							<td class="tab-header">户口所在地</td>
+							<td></td>
+							<td class="tab-header">户籍性质</td>
+							<td></td>
+						</tr>
+						<tr>
+							<td class="tab-header">户籍地址</td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+						<tr>
+							<td class="tab-header">是否有居住证</td>
+							<td></td>
+							<td class="tab-header">居住证有效期</td>
+							<td></td>
+						</tr>
+						<tr>
+							<td class="tab-header">是否有就业证</td>
+							<td></td>
+							<td class="tab-header">就业证有效期</td>
+							<td></td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+		</div>
+	</div>
+	<script src="../js/jquery-3.2.1.min.js" type="text/javascript" charset="utf-8"></script>
+	<script src="../js/jquery.nicescroll.min.js" type="text/javascript" charset="utf-8"></script>
+	<script src="../js/public.js" type="text/javascript" charset="utf-8"></script>
+	<script src="../js/ldship_project.js" type="text/javascript" charset="utf-8"></script>
+	<script src="../js/laydate/laydate.js"></script>
+</body>
+
+</html>

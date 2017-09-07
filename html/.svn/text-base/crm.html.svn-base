@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>crm</title>
+	<link rel="stylesheet" type="text/css" href="../css/crm.css" />
+</head>
+
+<body>
+	<div class="report-news">
+		<div class="business-report">
+			<span class="fl">商机报备信息</span>
+			<span class="fr">打印预览</span>
+		</div>
+		<div class="business-news">商机信息</div>
+		<div class="business-content">
+			<div class="content-details">
+				<span>商机名称</span>
+				<span>中国大数据产业基地</span>
+			</div>
+			<div class="content-details">
+				<span>商机发起时间</span>
+				<span>2016-07-03</span>
+			</div>
+			<div class="content-details">
+				<span>信息来源</span>
+				<span>网站消息</span>
+			</div>
+			<div class="content-details">
+				<span>客户经费来源</span>
+				<span>无</span>
+			</div>
+			<div class="content-details">
+				<span>客户预算进度</span>
+				<span>无</span>
+			</div>
+			<div class="content-details">
+				<span>客户签约部门及主体</span>
+				<span>无</span>
+			</div>
+			<div class="content-details">
+				<span class="fl">客户联系人姓名</span>
+				<div class="details-person fl">
+					<span class="details-name fl">--</span>
+					<span class="client-news details-tel  fl">13077839578</span>
+					<span class="client-news details-mail fl">dkajkdil@163.com</span>
+				</div>
+			</div>
+			<div class="content-details">
+				<span class="fl"></span>
+				<div class="details-person details-news fl">
+					<span class="details-name fl">张国强</span>
+					<span class="client-news details-tel  fl">13077839578</span>
+					<span class="client-news details-mail fl">dkajkdil@163.com</span>
+				</div>
+			</div>
+			<div class="content-details">
+				<span class="fl"></span>
+				<div class="details-person details-news fl">
+					<span class="details-name fl">张国强</span>
+					<span class="client-news details-tel  fl">13077839578</span>
+					<span class="client-news details-mail fl">dkajkdil@163.com</span>
+				</div>
+			</div>
+			<div class="content-details">
+				<span>最终决策人</span>
+				<span>2016-07-03李建国</span>
+			</div>
+			<div class="content-details">
+				<span>最终决策人信息</span>
+				<span>信息描述</span>
+			</div>
+			<div class="content-details">
+				<span>客户需求</span>
+				<span>客户需求客户需求客户需求客户需求</span>
+			</div>
+			<div class="content-details">
+				<span>情况</span>
+				<table width="100%" border="0" cellspacing="0" cellpadding="0" class="table-fixed">
+					<tbody>
+						<thead>
+							<th>方案情况</th>
+							<th>演示平台及系统情况</th>
+							<th>客户立项情况</th>
+							<th>控标情况</th>
+						</thead>
+						<tr>
+							<td>是否方案交流：是</td>
+							<td>是否演示平台及系统：是</td>
+							<td>是否引导客户立项：是</td>
+							<td>是否控标：是</td>
+						</tr>
+						<tr>
+							<td>
+								<span>2017-02-13</span>
+								<span>交流内容：交流内容交流内容交流内容</span>
+							</td>
+							<td>客户评价及建议：客户评价及建议客户评价及建议</td>
+							<td>是否主导招标文件攒写：是</td>
+							<td>招标方式：邀请招标</td>
+						</tr>
+						<tr>
+							<td>
+								<span>2017-02-13</span>
+								<span>交流内容：交流内容交流内容交流内容</span>
+							</td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+						<tr>
+							<td>
+								<span>2017-02-13</span>
+								<span>交流内容：交流内容交流内容交流内容</span>
+							</td>
+							<td></td>
+							<td></td>
+							<td></td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+			<div class="content-details">
+				<span>预计招标时间</span>
+				<span>2015-07-23</span>
+			</div>
+			<div class="content-details">
+				<span>中标概率</span>
+				<span>80%</span>
+			</div>
+			<div class="content-details">
+				<span>预计签约金额范围</span>
+				<span>2000-5000万</span>
+			</div>
+			<div class="content-details">
+				<span>预计签约时间</span>
+				<span>2015-10-28</span>
+			</div>
+		</div>
+		<div class="business-news">项目评估及计划</div>
+		<div class="business-content">
+			<div class="project-details cl">
+				<div class="project-title fl">竞争对手</div>
+				<div class="project-main fl">
+					<span>1、竞争对手分析竞争对手分析竞争对手分析竞争对手分析竞争对手分析竞争对手分析竞争对手分析竞争对手分析竞争对手分析竞争对手分析竞争对手分析竞争对手分析</span>
+					<span>2、竞争对手分析竞争对手分析竞争对手分析竞争对手分析竞争对手分析竞争对手分析竞争对手分析竞争对手分析竞争对手分析竞争对手分析竞争对手分析竞争对手分析</span>
+				</div>
+			</div>
+			<div class="project-details cl">
+				<div class="project-title fl">所需资质</div>
+				<div class="project-main fl">
+					<span>1、所需资质所需资质所需资质所需资质所需资质所需资质所需资质所需资质所需资质所需资质所需资质所需资质所需资质所需资质所需资质所需资质所需资质所需资质</span>
+					<span>2、所需资质所需资质所需资质所需资质所需资质所需资质所需资质所需资质所需资质所需资质所需资质所需资质所需资质所需资质所需资质所需资质所需资质所需资质</span>
+				</div>
+			</div>
+			<div class="project-details cl">
+				<div class="project-title fl">所需案例</div>
+				<div class="project-main fl">
+					<span>1、所需案例所需案例所需案例所需案例所需案例所需案例所需案例所需案例所需案例所需案例所需案例所需案例所需案例所需案例所需案例所需案例所需案例所需案例</span>
+					<span>2、所需案例所需案例所需案例所需案例所需案例所需案例所需案例所需案例所需案例所需案例所需案例所需案例所需案例所需案例所需案例所需案例所需案例所需案例</span>
+				</div>
+			</div>
+			<div class="project-details coping-strategy cl">
+				<div class="project-title fl">应对策略</div>
+				<table width="88%" border="0" cellspacing="0" cellpadding="0" class="table-fixed strategy fl">
+					<tbody>
+						<tr>
+							<th width="10%">客户关系</th>
+							<th></th>
+						</tr>
+						<tr>
+							<th width="10%">客户关系</th>
+							<th></th>
+						</tr>
+						<tr>
+							<th width="10%">客户关系</th>
+							<th></th>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+			<div class="content-details">
+				<span>项目推进整体时间节点安排</span>
+				<span>时间节点安排时间节点安排</span>
+			</div>
+			<div class="content-details">
+				<span>需要何种支持</span>
+				<span>需要何种支持需要何种支持</span>
+			</div>
+			<div class="content-details">
+				<span>支持方评价</span>
+				<span>支持方评价</span>
+			</div>
+			<div class="content-details">
+				<span>客户反馈评价</span>
+				<span>客户反馈评价</span>
+			</div>
+		</div>
+	</div>
+</body>
+
+</html>

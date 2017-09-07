@@ -1,0 +1,389 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<title></title>
+		<link rel="stylesheet" type="text/css" href="../css/style.css"/>
+		<link rel="stylesheet" type="text/css" href="../css/contacts.css" />
+	</head>
+
+	<body>
+		<div class="header">
+			<a href="#">
+				<div class="logo">
+				</div>
+			</a>
+			<div class="righticons">
+				<a href="#">
+					<div class="exit">
+
+					</div>
+				</a>
+				<a href="#">
+					<div class="admin">
+
+					</div>
+				</a>
+				<div class="menu">
+
+				</div>
+			</div>
+			<div class="menulist">
+				<ul>
+					<li>
+						<a href="#">OA</a>
+					</li>
+					<li>
+						<a href="#">CRM</a>
+					</li>
+					<li>
+						<a href="#">TEAMWORK</a>
+					</li>
+					<li>
+						<a href="#">BUGFREE</a>
+					</li>
+					<li>
+						<a href="#">E-LEARNING</a>
+					</li>
+				</ul>
+
+			</div>
+		</div>
+		<div class="content">
+			<div class="mainwrap">
+				<div class="conleft">
+					<div class="cltit">
+						<p>
+							通讯录
+						</p>
+					</div>
+					<div class="clmenu">
+						<div class="menutab">
+							<div class="tabs">
+								<span id="interior" class="tabsb active">
+									内部
+								</span>
+							</div>
+							<div class="tabs sx">
+								<span id="external" class="tabsb">
+									外部
+								</span>
+							</div>
+							<div class="tabs">
+								<span id="individual" class="tabsb">
+									个人
+								</span>
+							</div>
+						</div>
+						<div class="menus">
+							<ul class="interior_mn">
+								<!--<li id="1">
+									父节点1(<b>123</b>)
+								</li>
+								<li id="11">
+									父节点11(<b>123</b>)
+								</li>
+								<li id="111">
+									叶子节点111(<b>123</b>)
+								</li>
+								<li id="112">
+									叶子节点112(<b>123</b>)
+								</li>
+								<li id="113">
+									叶子节点113(<b>123</b>)
+								</li>
+								<li id="1131">
+									叶子节点1131(<b>123</b>)
+								</li>
+								<li id="2">
+									父节点2(<b>123</b>)
+								</li>
+								<li id="21">
+									父节点21(<b>123</b>)
+								</li>-->
+
+							</ul>
+							<ul class="external_mn">
+								<li class="active">
+									<span>全部联系人</span>(<b>123</b>)
+								</li>
+							</ul>
+
+							<ul class="individual_mn">
+								<!--<li class="active">
+									<span>全部联系人</span>(<b>123</b>)
+								</li>
+								<li>
+									<span>未分组联系人</span>(<b>123</b>)
+								</li>
+								<li>
+									<span>项目一组</span>(<b>123</b>)
+									<i class="delete iconfont">&#xe614;</i>
+									<i class="compile iconfont">&#xe77d;</i>
+								</li>
+								<li>
+									<span>项目二组</span>(<b>123</b>)
+									<i class="delete iconfont">&#xe614;</i>
+									<i class="compile iconfont">&#xe77d;</i>
+								</li>-->
+
+								<!--<li class="newliwrap">
+									<div class="newli">
+										<input type="text" placeholder="输入文字..." />
+										<i title="删除" class="iconfont cross">&#xe619;</i>
+										<i title="确认修改" class="iconfont tick">&#xe615;</i>
+									</div>
+								</li>-->
+
+								<!--<div class="newcst">
+									<div class="newcst_l">
+										新建分组
+									</div>
+									<div class="newcst_r iconfont">
+										&#xe68b;
+									</div>
+								</div>-->
+
+							</ul>
+							<div class="newcst">
+								<div class="newcst_l">
+									新建分组
+								</div>
+								<div class="newcst_r iconfont">
+									&#xe68b;
+								</div>
+							</div>
+
+						</div>
+
+					</div>
+
+				</div>
+				<div class="conright">
+					<div class="crtit">
+						<div class="crtit_btns">
+
+							<div class="btnwrapmm">
+								<button class="btnmm">移至个人</button>
+							</div>
+							<div class="btnwrap">
+								<button class="new">新建</button>
+								<button class="del">删除</button>
+								<button class="clean">清空组</button>
+								<div class="move">
+									<div class="movebtn">
+										<div class="btxt">
+											移至分组
+										</div>
+										<div class="bmor iconfont">
+											&#xe600;
+										</div>
+									</div>
+									<div class="movegroup">
+										<ul>
+											<li>
+												<div class="mycheck">
+													<input type="checkbox" id="checkbox0">
+													<label for="checkbox0"></label>
+												</div>
+												<span>项目一组的撒发生的</span>
+											</li>
+											<li>
+												<div class="mycheck">
+													<input type="checkbox" id="checkbox0">
+													<label for="checkbox0"></label>
+												</div>
+												<span>项目一组</span>
+											</li>
+											<li>
+												<div class="mycheck">
+													<input type="checkbox" id="checkbox0">
+													<label for="checkbox0"></label>
+												</div>
+												<span>项目一组</span>
+											</li>
+											<li>
+												<div class="mycheck">
+													<input type="checkbox" id="checkbox0">
+													<label for="checkbox0"></label>
+												</div>
+												<span>项目一组</span>
+											</li>
+										</ul>
+										<button>确&nbsp;&nbsp;定</button>
+									</div>
+								</div>
+							</div>
+							<div class="btnnew">
+								<button class="return">返回</button>
+								<button class="save">保存</button>
+								<div class="move">
+									<div class="movebtn">
+										<div class="btxt">
+											移至分组
+										</div>
+										<div class="bmor iconfont">
+											&#xe600;
+										</div>
+									</div>
+									<div class="movegroup">
+										<ul>
+											<li>
+												<div class="mycheck">
+													<input type="checkbox" id="checkbox0">
+													<label for="checkbox0"></label>
+												</div>
+												<span>项目一组的撒发生的</span>
+											</li>
+											<li>
+												<div class="mycheck">
+													<input type="checkbox" id="checkbox0">
+													<label for="checkbox0"></label>
+												</div>
+												<span>项目一组</span>
+											</li>
+											<li>
+												<div class="mycheck">
+													<input type="checkbox" id="checkbox0">
+													<label for="checkbox0"></label>
+												</div>
+												<span>项目一组</span>
+											</li>
+											<li>
+												<div class="mycheck">
+													<input type="checkbox" id="checkbox0">
+													<label for="checkbox0"></label>
+												</div>
+												<span>项目一组</span>
+											</li>
+										</ul>
+										<button>确&nbsp;&nbsp;定</button>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="searchwrap">
+							<input type="text" id="searchin" value="" placeholder="请输入文字..." />
+							<div class="searchbtn iconfont" id="searchbtn">
+								&#xe68a;
+							</div>
+						</div>
+					</div>
+					<div class="crmain">
+						<div class="newcon">
+							<div class="nctit">
+								<p>新建</p>
+							</div>
+							<div class="nlist">
+								<div>
+									<div class="nli">
+										<span>姓&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;名 :</span>
+										<div class="">
+											<input type="text" name="" id="" value="" />
+										</div>
+									</div>
+									<div class="nli">
+										<span>公司/部门 :</span>
+										<div class="">
+											<input type="text" name="" id="" value="" />
+											<i class="iconfont minicon clearicon">&#xe61a;</i>
+										</div>
+									</div>
+									<div class="nli">
+										<span>生&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;日 :</span>
+										<div class="">
+											<input type="text" name="" id="" value="" />
+											<i class="iconfont minicon clearicon">&#xe61a;</i>
+										</div>
+									</div>
+									<div class="nli">
+										<span>职&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;位 :</span>
+										<div class="">
+											<input type="text" name="" id="" value="" />
+											<i class="iconfont minicon clearicon">&#xe61a;</i>
+										</div>
+									</div>
+								</div>
+								<div>
+									<div class="nli">
+										<span>电&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;话 :</span>
+										<div class="">
+											<input type="text" name="" id="" value="" />
+											<i class="iconfont addicon">&#xe501;</i>
+											<i class="iconfont minicon clearicon">&#xe61a;</i>
+										</div>
+										<!--<div class="moreinput">
+											<input type="text" name="" id="" value="" />
+											<i class="iconfont addicon">&#xe501;</i>
+											<i class="iconfont minicon delicon">&#xe61a;</i>
+										</div>-->
+									</div>
+									<div class="nli">
+										<span>微&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;信 :</span>
+										<div class="">
+											<input type="text" name="" id="" value="" />
+											<i class="iconfont addicon">&#xe501;</i>
+											<i class="iconfont minicon clearicon">&#xe61a;</i>
+										</div>
+									</div>
+									<div class="nli">
+										<span>邮&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;箱 :</span>
+										<div class="">
+											<input type="text" name="" id="" value="" />
+											<i class="iconfont addicon">&#xe501;</i>
+											<i class="iconfont minicon clearicon">&#xe61a;</i>
+										</div>
+									</div>
+									<div class="nli">
+										<span>地&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;址 :</span>
+										<div class="">
+											<input type="text" name="" id="" value="" />
+											<i class="iconfont addicon">&#xe501;</i>
+											<i class="iconfont minicon clearicon">&#xe61a;</i>
+										</div>
+
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="layer">
+		</div>
+		<div class="cleconfirm popup">
+			<div class="ptit">
+				清空组
+			</div>
+			<div class="pwarn">
+				<i class="iconfont warnicon">&#xe664;</i>
+				<p>
+					确认要清空当前分组的所有联系人？
+				</p>
+			</div>
+			<button class="confirmbtn">确认</button>
+			<button class="cancelbtn">取消</button>
+		</div>
+		<div class="delconfirm popup">
+			<div class="ptit">
+				删除
+			</div>
+			<div class="pwarn">
+				<i class="iconfont warnicon">&#xe664;</i>
+				<p>
+					确认要删除选中的<span id="delnum">10</span>个联系人？
+				</p>
+			</div>
+			<button class="confirmbtn">确认</button>
+			<button class="cancelbtn">取消</button>
+		</div>
+
+		<script src="../js/jquery-3.2.1.min.js" type="text/javascript" charset="utf-8"></script>
+		<script src="../js/jquery.nicescroll.min.js" type="text/javascript" charset="utf-8"></script>
+		<script src="../js/contacts.js" type="text/javascript" charset="utf-8"></script>
+	</body>
+
+</html>

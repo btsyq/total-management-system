@@ -1,0 +1,77 @@
+.pop-business{
+    margin: 0;
+    padding: 0;
+}
+.pop-business{
+    width:660px;
+    height:585px;
+    padding:0 40px;
+    margin: 0 auto;
+    background: url(../img/pop-bg.png);
+    background-size:100% 100%;
+    position: relative;
+    display: block;
+}
+.pop-title{
+    height:32.5px;
+    padding: 12.5px 0 0 0;
+    font-size: 14px;
+}
+.user-info{
+    line-height: 32.5px;
+    color: #00fcff;
+}
+.pop-close{
+    width:13px;
+    height:13px;
+    background: url(../img/close.png);
+    background-size:100% 100%;
+    position: absolute;
+    top:20px;
+    right:20px;
+    cursor: pointer;
+}
+.user-top{
+    height:35px;
+    font-size:12px;
+    margin:22px 0 0px 0;
+}
+.user-btn{
+    width:90px;
+    height:25px;
+    line-height: 25px;
+    text-align: center;
+    color: #fcd200;
+    background: url(../img/role_sum.png);
+    background-size:100% 100%;
+    cursor: pointer;
+}
+.minute{
+    margin-left:24px;
+    color: #5dd9fe;
+    background: url(../img/role-sum2.png);
+    background-size:100% 100%;
+}
+.staff-message{
+    height:130px;
+    /*border:1px solid #ccc;*/
+}
+.staff-pic{
+    width:16%;
+    height:100%;
+    border:1px solid #276eab;
+    border-radius:5px;
+    background: url(../img/photo.png) center;
+    background-size:80% 80%;
+}
+.staff-record{
+    width:80%;
+    height:100%;
+    /*border:1px solid #276eab;*/
+}
+.contact-info{
+    margin-top:24px;
+}
+.minute-message{
+    display: none;
+}

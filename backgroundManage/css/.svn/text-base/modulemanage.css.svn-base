@@ -1,0 +1,352 @@
+
+
+.conleft{
+	float: left;
+	width: 260px;
+	height: 100%;
+	box-sizing: border-box;
+	padding-right: 18px;
+}
+.conright{
+	float: left;
+	width: calc(100% - 260px);
+	height: 100%;
+}
+.cltit{
+	height: 48px;
+	background: rgba(22,141,253,.3);
+	border: 1px solid #2467a7;
+}
+.clmenu{
+	margin-top: 14px;
+	height: 565px;
+	background: rgba(22,141,253,.3);
+	border: 1px solid #2467a7;
+}
+.crtit{
+	height: 48px;
+	background: rgba(22,141,253,.3);
+	border: 1px solid #2467a7;	
+}
+.crmain{
+	margin-top: 14px;
+	height: 567px;
+	background: rgba(22,141,253,.3);
+	border: 1px solid #2467a7;
+	overflow-y: auto;
+	box-sizing: border-box;
+	padding: 25px;
+}
+.blockwrap{
+	height: 100%;
+	overflow: hidden;
+}
+.modules{
+	width: 25%;
+	height: 33%;
+	float: left;
+}
+.mdlogo{
+	width: 80px;
+	height: 80px;
+	margin: 20px auto 10px;
+	background: url(../img/mkbg.png) no-repeat;
+	cursor: pointer;
+}
+
+.client .mdlogo{
+	background-position: 0 -134px;
+}
+.opportunity .mdlogo{
+	background-position: -114px -134px;
+}
+.sign .mdlogo{
+	background-position: -226px -134px;
+}
+.arsenal .mdlogo{
+	background-position: -338px -134px;
+}
+.callfb .mdlogo{
+	background-position: -450px -134px;
+}
+.conditions .mdlogo{
+	background-position: -562px -133px;
+}
+.address .mdlogo{
+	background-position: -674px -132px;
+}
+.notice .mdlogo{
+	background-position: -786px -132px;
+}
+.template .mdlogo{
+	background-position: -898px -132px;
+}
+.daily .mdlogo{
+	background-position: -1010px -134px;
+}
+.weekly .mdlogo{
+	background-position: -1122px -133px;
+}
+
+.client .mdlogo:hover{
+	background-position: 0 -264px;
+}
+.opportunity .mdlogo:hover{
+	background-position: -114px -264px;
+}
+.sign .mdlogo:hover{
+	background-position: -226px -264px;
+}
+.arsenal .mdlogo:hover{
+	background-position: -338px -264px;
+}
+.callfb .mdlogo:hover{
+	background-position: -450px -264px;
+}
+.conditions .mdlogo:hover{
+	background-position: -562px -264px;
+}
+.address .mdlogo:hover{
+	background-position: -674px -264px;
+}
+.notice .mdlogo:hover{
+	background-position: -786px -264px;
+}
+.template .mdlogo:hover{
+	background-position: -898px -264px;
+}
+.daily .mdlogo:hover{
+	background-position: -1010px -264px;
+}
+.weekly .mdlogo:hover{
+	background-position: -1122px -264px;
+}
+
+
+.client .mdlogo.active{
+	background-position: 0 0;
+}
+.opportunity .mdlogo.active{
+	background-position: -114px 0;
+}
+.sign .mdlogo.active{
+	background-position: -226px 0;
+}
+.arsenal .mdlogo.active{
+	background-position: -338px 0;
+}
+.callfb .mdlogo.active{
+	background-position: -450px 0;
+}
+.conditions .mdlogo.active{
+	background-position: -562px 0;
+}
+.address .mdlogo.active{
+	background-position: -674px 0;
+}
+.notice .mdlogo.active{
+	background-position: -786px 0;
+}
+.template .mdlogo.active{
+	background-position: -898px 0;
+}
+.daily .mdlogo.active{
+	background-position: -1010px 0;
+}
+.weekly .mdlogo.active{
+	background-position: -1122px 0;
+}
+
+.mdname{
+	font-size: 14px;
+	color: #afd8fe;
+	text-align: center;
+	line-height: 20px;
+}
+
+
+
+.cltit>p{
+	padding: 0 8px;
+	line-height: 16px;
+	float: left;
+	margin-top: 16px;
+	margin-left: 20px;
+	border-left: 3px solid #e69709;
+}
+
+.crtit_btns>div>button{
+	width: 80px;
+	height: 30px;
+	float: left;
+	border-radius: 6px;
+	border: none;
+	outline: none;
+	color: #fff;
+	margin-left: 20px;
+	margin-top: 9px;
+	cursor: pointer;
+	line-height: 24px;
+	font-size: 14px;
+
+}
+
+button.new{
+	background: #0070d9;
+}
+button.del{
+	background: #e79709;
+}
+button.modi{
+	background: #019475;
+}
+button.sort{
+	background: #ce4545;
+}
+
+
+
+
+/*checkbox样式*/
+.mycheck {
+  display: inline-block;
+  width: 14px;
+  height: 14px;
+  position: relative;
+}
+.mycheck input[type=checkbox] {
+  visibility: hidden;
+}
+.mycheck label {
+  cursor: pointer;
+  position: absolute;
+  width: 12px;
+  height: 12px;
+  top: 4px;
+  left: 0;
+  border: 1px solid #438afa;
+  border-radius: 4px;
+}
+.mycheck label:after {
+  opacity: 0;
+  content: '';
+  position: absolute;
+  width: 7px;
+  height: 4px;
+  background: transparent;
+  top: 2px;
+  left: 2px;
+  border: 1px solid #d2d2d2;
+  border-top: none;
+  border-right: none;
+  -webkit-transform: rotate(-45deg);
+      -ms-transform: rotate(-45deg);
+          transform: rotate(-45deg);
+}
+.mycheck label:hover::after {
+  opacity: 1;
+}
+.mycheck input[type=checkbox]:checked + label:after {
+  opacity: 1;
+  border-color: #fff;
+}
+.mycheck input[type=checkbox]:checked + label {
+  background: #0091f0;
+  border-color: #0091f0;
+}
+
+
+.modiconfirm{
+	display: none;
+}
+.delconfirm{
+	display: none;	
+}
+.addconfirm{
+	display: none;	
+}
+.sortconfirm{
+	display: none;	
+}
+
+
+.iwleft{
+	width: 70px;
+	height: 100%;
+	float: left;
+	font-size: 14px;
+	text-align: left;
+}
+.iwleft>p{
+	line-height: 54px;
+}
+.iwright{
+	width: 236px;
+	float: left;
+	height: 100%;
+}
+.iwright>p{
+	line-height: 54px;
+}
+.iwright>p>input{
+	width: 100%;
+	background: none;
+	height: 26px;
+	line-height: 26px;
+	text-indent: 10px;
+	color: #fff;
+	border: 1px solid #5db0fe;
+	border-radius: 5px;
+}
+.iwright>p>select{
+	width: 100%;
+	
+	height: 26px;
+	line-height: 26px;
+	text-indent: 10px;
+	color: #fff;
+	border: 1px solid #5db0fe;
+	border-radius: 5px;
+	
+	appearance:none;
+	-moz-appearance:none;
+	-webkit-appearance:none;
+	 background: url(../img/select.png) no-repeat scroll right center transparent;
+}
+select::-ms-expand { display: none; }
+.iwright>p>select>option{
+	background: #024589;
+}
+
+
+
+
+/*排序列表样式*/
+body.dragging, body.dragging * {
+  	cursor: move !important;
+}
+.dragged {
+  	position: absolute;
+  	opacity: 0.5;
+  	z-index: 2000;
+  	line-height: 36px;
+  	background: #024589;
+}
+ol.sortb li.placeholder {
+ 	 position: relative;
+}
+ol.sortb li.placeholder:before {
+  	position: absolute;
+}
+.sortb{
+	text-align: left;
+}
+.sortb>li{
+	height: 36px;
+	line-height: 36px;
+	text-indent: 20px;
+	cursor: move;
+}
+.sortb>li:hover{
+	background: #024589;
+}

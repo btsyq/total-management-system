@@ -1,0 +1,83 @@
+body,h1,h2,h3,h4,h5,h6,div,p,dl,dt,dd,ol,ul,li,form,table,th,td,a,img,span,strong,var,em,input,textarea,select,option{margin: 0; padding: 0;}
+html,body{font-family:"微软雅黑",Arail,Tabhoma; font-size: 16px; text-align: left; height: 100%;width: 100%;}
+ul,ol{list-style: none;}
+img{border: 0;}
+input,select,textarea{outline:0;}
+textarea{resize:none;}
+table{border-collapse: collapse; border-spacing: 0;}
+th,strong,var,em{font-weight: normal; font-style: normal;}
+a{text-decoration: none;}
+
+.fl{
+	float: left;
+}
+.fr{
+	float: right;
+}
+.cl{
+	clear: both;
+}
+
+body{
+	margin:0;
+	padding:0;
+}
+.page-box{
+    padding: 25px 25px;
+}
+.page-top{
+    height:60px;
+}
+.report{
+    height:40px;
+    text-align: center;
+    font-weight: bold;
+}
+.page-title{
+    width: 96%;
+    height:80px;
+    border-bottom:1px solid #666;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
+.tg {
+        border-collapse: collapse;
+        border-spacing: 0;
+        width: 96%;
+        margin: 0 auto;
+        height: 100%;
+    }
+.tg td {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    text-align: center;
+    border: 1px solid #666;
+    overflow: hidden;
+    word-break: normal;
+    height: 60px;
+}
+.tg th {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    border: 1px solid #666;
+    overflow: hidden;
+    word-break: normal;
+    height: 60px;
+}
+.dataTime{
+    display: block;
+    margin: 50px 200px 0 0;
+}
+.print{
+    margin-top: 110px;
+    text-align: center;
+}
+.print button{
+    width:280px;
+    height:40px;
+    line-height: 40px;
+    border-radius: 7px;
+    border: 1px solid #666;
+    cursor: pointer;
+}
